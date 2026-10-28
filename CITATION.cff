@@ -1,0 +1,8 @@
+cff-version: 1.2.0
+title: "UK Food Price Pass-Through and Import-Supplier Concentration"
+message: "If you reuse this academic project, cite the repository and the underlying official data sources."
+type: software
+authors:
+  - family-names: Guntipalli
+    given-names: Jeevan Chowdary
+year: 2026

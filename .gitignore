@@ -1,0 +1,17 @@
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+.DS_Store
+.ipynb_checkpoints/
+# Generated analytical datasets are recreated by scripts/03_reproduce_final_analysis.py
+data/processed/master_panel_core_2014_2026.csv
+data/processed/analysis_sample_main_lag03.csv
+data/processed/master_panel_rebuilt.csv
+# Large live HMRC country-level downloads are reproducible from the acquisition script.
+data/interim/hmrc_core_country_month_all_categories.csv
+data/raw/hmrc/country_month/
+# Generated duplicate panel exports in results/tables are intentionally not versioned.
+results/tables/master_panel_core_2014_2026.csv
+results/tables/analysis_sample_main_lag03.csv
+results/tables/hmrc_monthly_core_measures_2014_2026.csv
