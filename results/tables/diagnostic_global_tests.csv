@@ -1,0 +1,4 @@
+diagnostic,statistic,p_value,interpretation
+Breusch-Pagan LM,172.87914721865613,7.14643207382602e-26,Conventional RQ1 residual heteroskedasticity test
+Breusch-Pagan F,9.983929633224598,3.882649204287671e-29,F version of residual heteroskedasticity test
+Pesaran CD (RQ1 residuals),4.542871203989907,5.549315938546684e-06,Cross-category residual dependence test

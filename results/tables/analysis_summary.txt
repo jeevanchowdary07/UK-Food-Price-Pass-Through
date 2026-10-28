@@ -1,0 +1,32 @@
+UK FOOD PRICE PASS-THROUGH - TECHNICAL ANALYSIS SUMMARY
+========================================================
+Panel: 906 category-month rows; 6 categories; Jan 2014-Jul 2026; 151 months/category.
+Main lag(0-3) estimation sample: 882 rows.
+
+RQ1 | Cumulative pass-through (lags 0-3) |  | All | est=0.125339 | SE=0.032312 | 95% CI [0.062008, 0.188670] | p=0.000104858
+RQ2 | Cumulative pass-through at HHI | Low (25th pct) | All | est=0.127955 | SE=0.033800 | 95% CI [0.061707, 0.194202] | p=0.000153292
+RQ2 | Cumulative pass-through at HHI | Median | All | est=0.123827 | SE=0.033789 | 95% CI [0.057600, 0.190054] | p=0.000247658
+RQ2 | Cumulative pass-through at HHI | High (75th pct) | All | est=0.121749 | SE=0.037247 | 95% CI [0.048745, 0.194753] | p=0.00108037
+RQ2 | Cumulative HHI moderation slope |  | All | est=-0.102688 | SE=0.448561 | 95% CI [-0.981869, 0.776492] | p=0.818925
+RQ3 | Cumulative pass-through at HHI by regime | Low (25th pct) | Stable | est=0.081292 | SE=0.031886 | 95% CI [0.018795, 0.143789] | p=0.0107891
+RQ3 | Cumulative pass-through at HHI by regime | Median | Stable | est=0.053257 | SE=0.034414 | 95% CI [-0.014194, 0.120708] | p=0.121731
+RQ3 | Cumulative pass-through at HHI by regime | High (75th pct) | Stable | est=0.039150 | SE=0.041788 | 95% CI [-0.042754, 0.121054] | p=0.348824
+RQ3 | Cumulative pass-through at HHI by regime | Low (25th pct) | Disruption 2020-23 | est=0.181762 | SE=0.042957 | 95% CI [0.097566, 0.265957] | p=2.32393e-05
+RQ3 | Cumulative pass-through at HHI by regime | Median | Disruption 2020-23 | est=0.177080 | SE=0.036887 | 95% CI [0.104783, 0.249378] | p=1.5813e-06
+RQ3 | Cumulative pass-through at HHI by regime | High (75th pct) | Disruption 2020-23 | est=0.174725 | SE=0.037234 | 95% CI [0.101745, 0.247704] | p=2.69805e-06
+RQ3 | HHI moderation slope - stable |  | Stable | est=-0.697364 | SE=0.625049 | 95% CI [-1.922461, 0.527732] | p=0.264553
+RQ3 | HHI moderation slope - disruption |  | Disruption 2020-23 | est=-0.116444 | SE=0.469676 | 95% CI [-1.037010, 0.804121] | p=0.804193
+RQ3 | Incremental HHI moderation during disruption |  | Disruption minus stable | est=0.580920 | SE=0.751996 | 95% CI [-0.892991, 2.054831] | p=0.439816
+RQ3 | Disruption minus stable cumulative pass-through at median HHI | Median | Difference | est=0.123824 | SE=0.046049 | 95% CI [0.033568, 0.214080] | p=0.00716765
+
+Robustness cumulative effects:
+RQ1 lags 0-6 | est=0.197323 | 95% CI [0.066310, 0.328337] | p=0.00315702 | n=864
+RQ1 winsorized 1-99% | est=0.129464 | 95% CI [0.064767, 0.194161] | p=8.77688e-05 | n=882
+RQ1 exclude Feb-Jul 2026 ONS flag | est=0.122909 | 95% CI [0.057908, 0.187910] | p=0.000210437 | n=846
+RQ1 post-May-2016 | est=0.134855 | 95% CI [0.068283, 0.201428] | p=7.17601e-05 | n=738
+RQ1 post-Jan-2022 | est=0.135730 | 95% CI [0.085191, 0.186268] | p=1.40993e-07 | n=330
+RQ1 full month-year FE | est=0.110484 | 95% CI [0.060720, 0.160248] | p=1.35206e-05 | n=882
+RQ2 Top-3 moderator slope | est=-0.086970 | 95% CI [-0.444640, 0.270701] | p=0.633657 | n=882
+RQ2 pre-2020 average HHI moderator slope | est=-0.524319 | 95% CI [-1.392498, 0.343860] | p=0.236531 | n=882
+
+Diagnostics: Pesaran CD=4.5429, p=5.54932e-06; Breusch-Pagan LM p=7.14643e-26.
