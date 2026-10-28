@@ -1,0 +1,43 @@
+project:
+  title: "The Role of Import-Supplier Concentration in UK Food Price Pass-Through: A Category-Level Analysis, 2014–2026"
+  start_month: 201401
+  requested_end_month: 202607
+  disruption_start: "2020-01-01"
+  disruption_end: "2023-12-01"
+
+quality:
+  min_known_country_coverage: 0.90
+  min_mass_value_coverage: 0.80
+
+model:
+  primary_max_lag: 3
+  robustness_max_lag: 6
+  outcome: "cpi_log_change_pct"
+  cost_variable: "import_cost_change_pct"
+  moderator: "hhi"
+
+categories:
+  Meat:
+    ons_cdid: D7D6
+    coicop: "01.1.2"
+    core: {hs2: ["02"], hs4: []}
+  Fish:
+    ons_cdid: D7D7
+    coicop: "01.1.3"
+    core: {hs2: ["03"], hs4: []}
+  "Milk, cheese & eggs":
+    ons_cdid: D7D8
+    coicop: "01.1.4"
+    core: {hs2: [], hs4: ["0401", "0402", "0403", "0406", "0407", "0408"]}
+  "Oils & fats":
+    ons_cdid: D7D9
+    coicop: "01.1.5"
+    core: {hs2: [], hs4: ["0405", "1507", "1508", "1509", "1510", "1511", "1512", "1513", "1514", "1515", "1516", "1517"]}
+  Fruit:
+    ons_cdid: D7DA
+    coicop: "01.1.6"
+    core: {hs2: ["08"], hs4: []}
+  Vegetables:
+    ons_cdid: D7DB
+    coicop: "01.1.7"
+    core: {hs2: ["07"], hs4: []}

@@ -1,0 +1,23 @@
+cpi_category,coicop,ons_cdid,hs_level,hs_code,official_hmrc_description,model_role,status,rationale
+Meat,01.1.2,D7D6,HS2,02,Meat and edible meat offal,Primary/core,Frozen v1,Direct chapter-level core; prepared meat HS1601/1602 reserved for robustness.
+Fish,01.1.3,D7D7,HS2,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",Primary/core,Frozen v1,Direct chapter-level core; prepared fish HS1604/1605 reserved for robustness.
+"Milk, cheese & eggs",01.1.4,D7D8,HS4,0401,"Milk and cream, not concentrated nor containing added sugar or other sweetening matter",Primary/core,Frozen v1,Included.
+"Milk, cheese & eggs",01.1.4,D7D8,HS4,0402,"Milk and cream, concentrated or containing added sugar or other sweetening matter",Primary/core,Frozen v1,Included.
+"Milk, cheese & eggs",01.1.4,D7D8,HS4,0403,"Buttermilk, curdled milk and cream, yogurt, kephir and other fermented or acidified milk and cream",Primary/core,Frozen v1,Included.
+"Milk, cheese & eggs",01.1.4,D7D8,HS4,0406,Cheese and curd,Primary/core,Frozen v1,Included.
+"Milk, cheese & eggs",01.1.4,D7D8,HS4,0407,"Birds eggs, in shell, fresh, preserved or cooked",Primary/core,Frozen v1,Included.
+"Milk, cheese & eggs",01.1.4,D7D8,HS4,0408,"Birds eggs, not in shell, and egg yolks",Primary/core,Frozen v1,Included.
+Oils & fats,01.1.5,D7D9,HS4,0405,"Butter, incl. dehydrated butter and ghee, and other fats and oils derived from milk; dairy spreads",Primary/core,Frozen v1,"Butter belongs with oils/fats, not milk/cheese/eggs."
+Oils & fats,01.1.5,D7D9,HS4,1507,Soya-bean oil and its fractions,Primary/core,Frozen v1,Edible-oil core.
+Oils & fats,01.1.5,D7D9,HS4,1508,Groundnut oil and its fractions,Primary/core,Frozen v1,Edible-oil core.
+Oils & fats,01.1.5,D7D9,HS4,1509,Olive oil and its fractions obtained from the fruit of the olive tree,Primary/core,Frozen v1,Edible-oil core.
+Oils & fats,01.1.5,D7D9,HS4,1510,"Other oils and their fractions, obtained solely from olives",Primary/core,Frozen v1,Edible-oil core.
+Oils & fats,01.1.5,D7D9,HS4,1511,Palm oil and its fractions,Primary/core,Frozen v1,Edible-oil core; industrial-use contamination remains a limitation.
+Oils & fats,01.1.5,D7D9,HS4,1512,"Sunflower-seed, safflower or cotton-seed oil and fractions",Primary/core,Frozen v1,Edible-oil core.
+Oils & fats,01.1.5,D7D9,HS4,1513,"Coconut, palm kernel or babassu oil and fractions",Primary/core,Frozen v1,Edible-oil core; industrial-use contamination remains a limitation.
+Oils & fats,01.1.5,D7D9,HS4,1514,"Rape, colza or mustard oil and fractions",Primary/core,Frozen v1,Edible-oil core.
+Oils & fats,01.1.5,D7D9,HS4,1515,"Fixed vegetable or microbial fats and oils, incl. jojoba oil, and fractions",Primary/core,Frozen v1,Included conservatively; composition sensitivity is required.
+Oils & fats,01.1.5,D7D9,HS4,1516,"Animal, vegetable or microbial fats and oils and fractions, partly or wholly hydrogenated etc.",Primary/core,Frozen v1,Included because it captures processed fats relevant to household edible-fat supply; mixed-use caveat.
+Oils & fats,01.1.5,D7D9,HS4,1517,Margarine and other edible mixtures or preparations of animal or vegetable fats or oils,Primary/core,Frozen v1,Strong direct match.
+Fruit,01.1.6,D7DA,HS2,08,Edible fruit and nuts; peel of citrus fruits or melons,Primary/core,Frozen v1,Core mapping; processed fruit HS2006-2008 reserved for robustness.
+Vegetables,01.1.7,D7DB,HS2,07,Edible vegetables and certain roots and tubers,Primary/core,Frozen v1,Core mapping; prepared vegetables HS2001-2005 reserved for robustness.
