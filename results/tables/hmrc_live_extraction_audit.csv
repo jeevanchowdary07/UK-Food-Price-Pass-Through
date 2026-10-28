@@ -1,0 +1,7 @@
+category,country_month_records,months,null_country_rows,suppressed_rows,bad_mass_rows,bad_mass_value_share,country_month_records_total
+Meat,5239,151,0,0,6,0.0,58196
+Fish,11057,151,0,0,10,3.8599641494516924e-07,58196
+"Milk, cheese & eggs",4583,151,0,0,11,0.0,58196
+Oils & fats,9560,151,0,0,25,0.0,58196
+Fruit,14069,151,0,0,19,0.0,58196
+Vegetables,13688,151,0,0,4,2.2607814522773397e-09,58196

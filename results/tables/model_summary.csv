@@ -1,0 +1,4 @@
+model,nobs,r_squared,adj_r_squared,formula,covariance
+RQ1,882,0.06932551651612617,0.046599744245008345,cpi_log_change_pct ~ cost_l0+cost_l1+cost_l2+cost_l3+C(category)+C(calendar_month)+trend,"hac-groupsum (Driscoll-Kraay-type), maxlags=4"
+RQ2,882,0.08369842297908514,0.055834281455642065,cpi_log_change_pct ~ cost_l0+cost_l1+cost_l2+cost_l3+hhi_l1+cost_hhi_l0+cost_hhi_l1+cost_hhi_l2+cost_hhi_l3+C(category)+C(calendar_month)+trend,"hac-groupsum (Driscoll-Kraay-type), maxlags=4"
+RQ3,882,0.10721536017679201,0.06917956487071453,cpi_log_change_pct ~ cost_l0+cost_l1+cost_l2+cost_l3+hhi_l1+disruption_2020_23+hhi_disrupt+cost_hhi_l0+cost_hhi_l1+cost_hhi_l2+cost_hhi_l3+cost_disrupt_l0+cost_disrupt_l1+cost_disrupt_l2+cost_disrupt_l3+triple_l0+triple_l1+triple_l2+triple_l3+C(category)+C(calendar_month)+trend,"hac-groupsum (Driscoll-Kraay-type), maxlags=4"
