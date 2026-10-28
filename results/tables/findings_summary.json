@@ -1,0 +1,373 @@
+{
+  "sample": {
+    "panel_rows": 906,
+    "categories": 6,
+    "months_per_category": 151,
+    "main_model_rows": 882,
+    "start": "2014-01",
+    "end": "2026-07"
+  },
+  "hhi_reference": {
+    "Low (25th pct)": 0.079934885,
+    "Median": 0.120136995,
+    "High (75th pct)": 0.140365935
+  },
+  "rq1": [
+    {
+      "model": "RQ1",
+      "quantity": "Cumulative pass-through (lags 0-3)",
+      "hhi_label": "",
+      "hhi_level": null,
+      "regime": "All",
+      "estimate": 0.1253393886722782,
+      "std_error": 0.03231173526299681,
+      "ci_low": 0.06200838755680445,
+      "ci_high": 0.18867038978775197,
+      "p_value": 0.00010485783725067144
+    }
+  ],
+  "rq2": [
+    {
+      "model": "RQ2",
+      "quantity": "Cumulative pass-through at HHI",
+      "hhi_label": "Low (25th pct)",
+      "hhi_level": 0.079934885,
+      "regime": "All",
+      "estimate": 0.12795483602337934,
+      "std_error": 0.03379974741125145,
+      "ci_low": 0.06170733109732651,
+      "ci_high": 0.19420234094943217,
+      "p_value": 0.00015329232677707694
+    },
+    {
+      "model": "RQ2",
+      "quantity": "Cumulative pass-through at HHI",
+      "hhi_label": "Median",
+      "hhi_level": 0.120136995,
+      "regime": "All",
+      "estimate": 0.12382654932551744,
+      "std_error": 0.03378928161609706,
+      "ci_low": 0.05759955735796721,
+      "ci_high": 0.19005354129306767,
+      "p_value": 0.0002476581935206834
+    },
+    {
+      "model": "RQ2",
+      "quantity": "Cumulative pass-through at HHI",
+      "hhi_label": "High (75th pct)",
+      "hhi_level": 0.140365935,
+      "regime": "All",
+      "estimate": 0.1217492736821782,
+      "std_error": 0.03724683417087385,
+      "ci_low": 0.04874547870726545,
+      "ci_high": 0.19475306865709094,
+      "p_value": 0.0010803718431655618
+    },
+    {
+      "model": "RQ2",
+      "quantity": "Cumulative HHI moderation slope",
+      "hhi_label": "",
+      "hhi_level": null,
+      "regime": "All",
+      "estimate": -0.10268830909277848,
+      "std_error": 0.4485613233884531,
+      "ci_low": -0.9818685029341466,
+      "ci_high": 0.7764918847485897,
+      "p_value": 0.8189247693302601
+    }
+  ],
+  "rq3": [
+    {
+      "model": "RQ3",
+      "quantity": "Cumulative pass-through at HHI by regime",
+      "hhi_label": "Low (25th pct)",
+      "hhi_level": 0.079934885,
+      "regime": "Stable",
+      "estimate": 0.08129226807475984,
+      "std_error": 0.0318861255837903,
+      "ci_low": 0.018795461930530846,
+      "ci_high": 0.14378907421898884,
+      "p_value": 0.010789118391573815
+    },
+    {
+      "model": "RQ3",
+      "quantity": "Cumulative pass-through at HHI by regime",
+      "hhi_label": "Median",
+      "hhi_level": 0.120136995,
+      "regime": "Stable",
+      "estimate": 0.05325675512411632,
+      "std_error": 0.03441366558580951,
+      "ci_low": -0.014194029424070317,
+      "ci_high": 0.12070753967230295,
+      "p_value": 0.121731468969839
+    },
+    {
+      "model": "RQ3",
+      "quantity": "Cumulative pass-through at HHI by regime",
+      "hhi_label": "High (75th pct)",
+      "hhi_level": 0.140365935,
+      "regime": "Stable",
+      "estimate": 0.0391498162259393,
+      "std_error": 0.04178777705349926,
+      "ci_low": -0.04275422679891924,
+      "ci_high": 0.12105385925079784,
+      "p_value": 0.3488241825013454
+    },
+    {
+      "model": "RQ3",
+      "quantity": "Cumulative pass-through at HHI by regime",
+      "hhi_label": "Low (25th pct)",
+      "hhi_level": 0.079934885,
+      "regime": "Disruption 2020-23",
+      "estimate": 0.18176159137154677,
+      "std_error": 0.042956922716219946,
+      "ci_low": 0.09756602284775567,
+      "ci_high": 0.26595715989533786,
+      "p_value": 2.323934992887189e-05
+    },
+    {
+      "model": "RQ3",
+      "quantity": "Cumulative pass-through at HHI by regime",
+      "hhi_label": "Median",
+      "hhi_level": 0.120136995,
+      "regime": "Disruption 2020-23",
+      "estimate": 0.1770802833167052,
+      "std_error": 0.03688651752322374,
+      "ci_low": 0.10478270897118666,
+      "ci_high": 0.24937785766222373,
+      "p_value": 1.5812956233318687e-06
+    },
+    {
+      "model": "RQ3",
+      "quantity": "Cumulative pass-through at HHI by regime",
+      "hhi_label": "High (75th pct)",
+      "hhi_level": 0.140365935,
+      "regime": "Disruption 2020-23",
+      "estimate": 0.17472473780521564,
+      "std_error": 0.037234404533318825,
+      "ci_low": 0.10174530491991074,
+      "ci_high": 0.24770417069052053,
+      "p_value": 2.6980522562780607e-06
+    },
+    {
+      "model": "RQ3",
+      "quantity": "HHI moderation slope - stable",
+      "hhi_label": "",
+      "hhi_level": null,
+      "regime": "Stable",
+      "estimate": -0.6973642167200558,
+      "std_error": 0.6250492568306523,
+      "ci_low": -1.9224607601081343,
+      "ci_high": 0.5277323266680227,
+      "p_value": 0.2645527895565176
+    },
+    {
+      "model": "RQ3",
+      "quantity": "HHI moderation slope - disruption",
+      "hhi_label": "",
+      "hhi_level": null,
+      "regime": "Disruption 2020-23",
+      "estimate": -0.1164443372460201,
+      "std_error": 0.469676135523941,
+      "ci_low": -1.0370095628729445,
+      "ci_high": 0.8041208883809042,
+      "p_value": 0.8041926319188939
+    },
+    {
+      "model": "RQ3",
+      "quantity": "Incremental HHI moderation during disruption",
+      "hhi_label": "",
+      "hhi_level": null,
+      "regime": "Disruption minus stable",
+      "estimate": 0.5809198794740357,
+      "std_error": 0.7519955336483991,
+      "ci_low": -0.8929913664768266,
+      "ci_high": 2.054831125424898,
+      "p_value": 0.4398157254037427
+    },
+    {
+      "model": "RQ3",
+      "quantity": "Disruption minus stable cumulative pass-through at median HHI",
+      "hhi_label": "Median",
+      "hhi_level": 0.120136995,
+      "regime": "Difference",
+      "estimate": 0.12382352819258885,
+      "std_error": 0.04604897261132687,
+      "ci_low": 0.03356754187438818,
+      "ci_high": 0.21407951451078952,
+      "p_value": 0.007167648622635525
+    }
+  ],
+  "category_specific_rq1": [
+    {
+      "category": "Fish",
+      "nobs": 147,
+      "cum_pass_through": 0.043163146380354414,
+      "std_error": 0.07896990605479862,
+      "ci_low": -0.11161786948705087,
+      "ci_high": 0.19794416224775968,
+      "p_value": 0.5846692692840565,
+      "r2": 0.11233580314183378
+    },
+    {
+      "category": "Fruit",
+      "nobs": 147,
+      "cum_pass_through": 0.10040951684620049,
+      "std_error": 0.052953401800688665,
+      "ci_low": -0.0033791506831492985,
+      "ci_high": 0.20419818437555026,
+      "p_value": 0.057935409578350416,
+      "r2": 0.4887279588883723
+    },
+    {
+      "category": "Meat",
+      "nobs": 147,
+      "cum_pass_through": 0.29628903463131934,
+      "std_error": 0.04343253701076298,
+      "ci_low": 0.2111612620902239,
+      "ci_high": 0.3814168071724148,
+      "p_value": 8.989253785784967e-12,
+      "r2": 0.3935747319405143
+    },
+    {
+      "category": "Milk, cheese & eggs",
+      "nobs": 147,
+      "cum_pass_through": 0.10947928992787034,
+      "std_error": 0.04836523869440117,
+      "ci_low": 0.014683422086844047,
+      "ci_high": 0.20427515776889665,
+      "p_value": 0.02359906437070136,
+      "r2": 0.2867215895449078
+    },
+    {
+      "category": "Oils & fats",
+      "nobs": 147,
+      "cum_pass_through": 0.15504974173468614,
+      "std_error": 0.08250490345147435,
+      "ci_low": -0.006659869030203575,
+      "ci_high": 0.3167593524995759,
+      "p_value": 0.06020639221080781,
+      "r2": 0.1386482738918401
+    },
+    {
+      "category": "Vegetables",
+      "nobs": 147,
+      "cum_pass_through": 0.030758429815933234,
+      "std_error": 0.06174104391984479,
+      "ci_low": -0.09025401626696256,
+      "ci_high": 0.15177087589882904,
+      "p_value": 0.6183540209339315,
+      "r2": 0.16789311310046273
+    }
+  ],
+  "robustness_cumulative": [
+    {
+      "estimate": 0.19732347236797382,
+      "std_error": 0.06684352990745973,
+      "ci_low": 0.06631015374935276,
+      "ci_high": 0.32833679098659485,
+      "p_value": 0.003157019433905006,
+      "specification": "RQ1 lags 0-6",
+      "nobs": 864,
+      "r2": 0.09027462475243508,
+      "covariance": "hac-groupsum (Driscoll-Kraay-type), maxlags=6"
+    },
+    {
+      "estimate": 0.12946380194437113,
+      "std_error": 0.03300852551939872,
+      "ci_low": 0.06476709192634963,
+      "ci_high": 0.19416051196239262,
+      "p_value": 8.776879807381732e-05,
+      "specification": "RQ1 winsorized 1-99%",
+      "nobs": 882,
+      "r2": 0.06915593603342207,
+      "covariance": "hac-groupsum (Driscoll-Kraay-type), maxlags=4"
+    },
+    {
+      "estimate": 0.12290899660353885,
+      "std_error": 0.033163562366703946,
+      "ci_low": 0.05790841436479911,
+      "ci_high": 0.1879095788422786,
+      "p_value": 0.00021043720604141392,
+      "specification": "RQ1 exclude Feb-Jul 2026 ONS flag",
+      "nobs": 846,
+      "r2": 0.07137386704358684,
+      "covariance": "hac-groupsum (Driscoll-Kraay-type), maxlags=4"
+    },
+    {
+      "estimate": 0.13485542284322774,
+      "std_error": 0.033965426353575356,
+      "ci_low": 0.06828318719022004,
+      "ci_high": 0.20142765849623545,
+      "p_value": 7.176010084997131e-05,
+      "specification": "RQ1 post-May-2016",
+      "nobs": 738,
+      "r2": 0.07444894429797533,
+      "covariance": "hac-groupsum (Driscoll-Kraay-type), maxlags=4"
+    },
+    {
+      "estimate": 0.13572955275200463,
+      "std_error": 0.02578473797047077,
+      "ci_low": 0.08519146632988192,
+      "ci_high": 0.18626763917412734,
+      "p_value": 1.409933654272777e-07,
+      "specification": "RQ1 post-Jan-2022",
+      "nobs": 330,
+      "r2": 0.2637974558727272,
+      "covariance": "hac-groupsum (Driscoll-Kraay-type), maxlags=4"
+    },
+    {
+      "estimate": 0.11048369618990997,
+      "std_error": 0.02538976432961136,
+      "ci_low": 0.0607197581038717,
+      "ci_high": 0.16024763427594824,
+      "p_value": 1.35206000675403e-05,
+      "specification": "RQ1 full month-year FE",
+      "nobs": 882,
+      "r2": 0.2544743627788699,
+      "covariance": "hac-groupsum (Driscoll-Kraay-type), maxlags=4"
+    },
+    {
+      "estimate": -0.08696959608833843,
+      "std_error": 0.1824847530118194,
+      "ci_low": -0.4446397119915045,
+      "ci_high": 0.2707005198148276,
+      "p_value": 0.6336572762047736,
+      "specification": "RQ2 Top-3 moderator slope",
+      "nobs": 882,
+      "r2": 0.08786720278825999,
+      "covariance": "hac-groupsum (Driscoll-Kraay-type), maxlags=4"
+    },
+    {
+      "estimate": -0.5243188728309354,
+      "std_error": 0.44294857569319845,
+      "ci_low": -1.3924980811896042,
+      "ci_high": 0.34386033552773354,
+      "p_value": 0.2365312634442278,
+      "specification": "RQ2 pre-2020 average HHI moderator slope",
+      "nobs": 882,
+      "r2": 0.07767329642265763,
+      "covariance": "hac-groupsum (Driscoll-Kraay-type), maxlags=4"
+    }
+  ],
+  "diagnostics_global": [
+    {
+      "diagnostic": "Breusch-Pagan LM",
+      "statistic": 172.87914721865613,
+      "p_value": 7.14643207382602e-26,
+      "interpretation": "Conventional RQ1 residual heteroskedasticity test"
+    },
+    {
+      "diagnostic": "Breusch-Pagan F",
+      "statistic": 9.983929633224598,
+      "p_value": 3.882649204287671e-29,
+      "interpretation": "F version of residual heteroskedasticity test"
+    },
+    {
+      "diagnostic": "Pesaran CD (RQ1 residuals)",
+      "statistic": 4.542871203989907,
+      "p_value": 5.549315938546684e-06,
+      "interpretation": "Cross-category residual dependence test"
+    }
+  ]
+}
