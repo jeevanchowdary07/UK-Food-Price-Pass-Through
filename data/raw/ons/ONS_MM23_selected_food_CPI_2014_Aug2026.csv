@@ -1,0 +1,913 @@
+month,category,ons_cdid,cpi_index_2015_100,source_url
+2014-01-01,Fish,D7D7,103.1,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7d7/mm23
+2014-02-01,Fish,D7D7,105.3,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7d7/mm23
+2014-03-01,Fish,D7D7,104.2,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7d7/mm23
+2014-04-01,Fish,D7D7,100.7,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7d7/mm23
+2014-05-01,Fish,D7D7,104.1,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7d7/mm23
+2014-06-01,Fish,D7D7,102.2,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7d7/mm23
+2014-07-01,Fish,D7D7,105.1,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7d7/mm23
+2014-08-01,Fish,D7D7,104.7,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7d7/mm23
+2014-09-01,Fish,D7D7,101.0,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7d7/mm23
+2014-10-01,Fish,D7D7,104.3,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7d7/mm23
+2014-11-01,Fish,D7D7,105.0,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7d7/mm23
+2014-12-01,Fish,D7D7,104.0,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7d7/mm23
+2015-01-01,Fish,D7D7,104.2,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7d7/mm23
+2015-02-01,Fish,D7D7,103.9,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7d7/mm23
+2015-03-01,Fish,D7D7,101.9,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7d7/mm23
+2015-04-01,Fish,D7D7,98.8,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7d7/mm23
+2015-05-01,Fish,D7D7,99.9,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7d7/mm23
+2015-06-01,Fish,D7D7,100.0,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7d7/mm23
+2015-07-01,Fish,D7D7,99.8,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7d7/mm23
+2015-08-01,Fish,D7D7,99.0,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7d7/mm23
+2015-09-01,Fish,D7D7,98.6,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7d7/mm23
+2015-10-01,Fish,D7D7,97.6,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7d7/mm23
+2015-11-01,Fish,D7D7,97.3,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7d7/mm23
+2015-12-01,Fish,D7D7,98.9,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7d7/mm23
+2016-01-01,Fish,D7D7,97.2,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7d7/mm23
+2016-02-01,Fish,D7D7,98.9,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7d7/mm23
+2016-03-01,Fish,D7D7,96.4,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7d7/mm23
+2016-04-01,Fish,D7D7,96.1,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7d7/mm23
+2016-05-01,Fish,D7D7,95.8,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7d7/mm23
+2016-06-01,Fish,D7D7,95.8,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7d7/mm23
+2016-07-01,Fish,D7D7,98.4,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7d7/mm23
+2016-08-01,Fish,D7D7,98.1,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7d7/mm23
+2016-09-01,Fish,D7D7,96.8,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7d7/mm23
+2016-10-01,Fish,D7D7,99.6,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7d7/mm23
+2016-11-01,Fish,D7D7,99.3,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7d7/mm23
+2016-12-01,Fish,D7D7,99.9,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7d7/mm23
+2017-01-01,Fish,D7D7,100.2,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7d7/mm23
+2017-02-01,Fish,D7D7,104.8,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7d7/mm23
+2017-03-01,Fish,D7D7,104.8,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7d7/mm23
+2017-04-01,Fish,D7D7,103.5,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7d7/mm23
+2017-05-01,Fish,D7D7,105.8,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7d7/mm23
+2017-06-01,Fish,D7D7,107.9,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7d7/mm23
+2017-07-01,Fish,D7D7,105.8,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7d7/mm23
+2017-08-01,Fish,D7D7,107.6,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7d7/mm23
+2017-09-01,Fish,D7D7,110.0,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7d7/mm23
+2017-10-01,Fish,D7D7,108.1,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7d7/mm23
+2017-11-01,Fish,D7D7,108.5,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7d7/mm23
+2017-12-01,Fish,D7D7,109.0,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7d7/mm23
+2018-01-01,Fish,D7D7,109.1,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7d7/mm23
+2018-02-01,Fish,D7D7,110.5,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7d7/mm23
+2018-03-01,Fish,D7D7,109.0,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7d7/mm23
+2018-04-01,Fish,D7D7,109.6,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7d7/mm23
+2018-05-01,Fish,D7D7,111.3,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7d7/mm23
+2018-06-01,Fish,D7D7,111.1,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7d7/mm23
+2018-07-01,Fish,D7D7,109.2,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7d7/mm23
+2018-08-01,Fish,D7D7,111.0,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7d7/mm23
+2018-09-01,Fish,D7D7,110.9,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7d7/mm23
+2018-10-01,Fish,D7D7,111.2,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7d7/mm23
+2018-11-01,Fish,D7D7,110.7,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7d7/mm23
+2018-12-01,Fish,D7D7,110.6,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7d7/mm23
+2019-01-01,Fish,D7D7,111.3,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7d7/mm23
+2019-02-01,Fish,D7D7,112.4,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7d7/mm23
+2019-03-01,Fish,D7D7,110.6,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7d7/mm23
+2019-04-01,Fish,D7D7,109.5,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7d7/mm23
+2019-05-01,Fish,D7D7,111.9,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7d7/mm23
+2019-06-01,Fish,D7D7,112.3,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7d7/mm23
+2019-07-01,Fish,D7D7,113.5,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7d7/mm23
+2019-08-01,Fish,D7D7,111.8,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7d7/mm23
+2019-09-01,Fish,D7D7,113.6,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7d7/mm23
+2019-10-01,Fish,D7D7,112.6,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7d7/mm23
+2019-11-01,Fish,D7D7,113.3,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7d7/mm23
+2019-12-01,Fish,D7D7,113.4,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7d7/mm23
+2020-01-01,Fish,D7D7,112.2,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7d7/mm23
+2020-02-01,Fish,D7D7,113.6,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7d7/mm23
+2020-03-01,Fish,D7D7,113.0,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7d7/mm23
+2020-04-01,Fish,D7D7,117.0,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7d7/mm23
+2020-05-01,Fish,D7D7,115.9,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7d7/mm23
+2020-06-01,Fish,D7D7,116.1,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7d7/mm23
+2020-07-01,Fish,D7D7,114.2,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7d7/mm23
+2020-08-01,Fish,D7D7,113.9,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7d7/mm23
+2020-09-01,Fish,D7D7,113.5,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7d7/mm23
+2020-10-01,Fish,D7D7,111.2,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7d7/mm23
+2020-11-01,Fish,D7D7,112.7,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7d7/mm23
+2020-12-01,Fish,D7D7,109.9,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7d7/mm23
+2021-01-01,Fish,D7D7,111.0,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7d7/mm23
+2021-02-01,Fish,D7D7,112.1,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7d7/mm23
+2021-03-01,Fish,D7D7,111.0,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7d7/mm23
+2021-04-01,Fish,D7D7,109.8,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7d7/mm23
+2021-05-01,Fish,D7D7,110.6,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7d7/mm23
+2021-06-01,Fish,D7D7,112.2,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7d7/mm23
+2021-07-01,Fish,D7D7,109.0,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7d7/mm23
+2021-08-01,Fish,D7D7,111.2,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7d7/mm23
+2021-09-01,Fish,D7D7,110.5,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7d7/mm23
+2021-10-01,Fish,D7D7,112.1,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7d7/mm23
+2021-11-01,Fish,D7D7,111.9,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7d7/mm23
+2021-12-01,Fish,D7D7,111.8,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7d7/mm23
+2022-01-01,Fish,D7D7,114.3,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7d7/mm23
+2022-02-01,Fish,D7D7,115.7,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7d7/mm23
+2022-03-01,Fish,D7D7,116.2,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7d7/mm23
+2022-04-01,Fish,D7D7,118.5,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7d7/mm23
+2022-05-01,Fish,D7D7,118.1,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7d7/mm23
+2022-06-01,Fish,D7D7,121.2,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7d7/mm23
+2022-07-01,Fish,D7D7,122.9,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7d7/mm23
+2022-08-01,Fish,D7D7,126.8,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7d7/mm23
+2022-09-01,Fish,D7D7,125.4,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7d7/mm23
+2022-10-01,Fish,D7D7,129.7,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7d7/mm23
+2022-11-01,Fish,D7D7,129.8,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7d7/mm23
+2022-12-01,Fish,D7D7,133.7,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7d7/mm23
+2023-01-01,Fish,D7D7,132.2,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7d7/mm23
+2023-02-01,Fish,D7D7,133.9,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7d7/mm23
+2023-03-01,Fish,D7D7,135.6,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7d7/mm23
+2023-04-01,Fish,D7D7,135.4,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7d7/mm23
+2023-05-01,Fish,D7D7,137.8,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7d7/mm23
+2023-06-01,Fish,D7D7,136.8,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7d7/mm23
+2023-07-01,Fish,D7D7,139.4,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7d7/mm23
+2023-08-01,Fish,D7D7,135.5,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7d7/mm23
+2023-09-01,Fish,D7D7,136.4,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7d7/mm23
+2023-10-01,Fish,D7D7,136.8,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7d7/mm23
+2023-11-01,Fish,D7D7,138.2,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7d7/mm23
+2023-12-01,Fish,D7D7,136.9,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7d7/mm23
+2024-01-01,Fish,D7D7,134.1,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7d7/mm23
+2024-02-01,Fish,D7D7,133.8,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7d7/mm23
+2024-03-01,Fish,D7D7,132.6,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7d7/mm23
+2024-04-01,Fish,D7D7,133.6,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7d7/mm23
+2024-05-01,Fish,D7D7,133.5,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7d7/mm23
+2024-06-01,Fish,D7D7,134.0,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7d7/mm23
+2024-07-01,Fish,D7D7,133.5,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7d7/mm23
+2024-08-01,Fish,D7D7,131.5,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7d7/mm23
+2024-09-01,Fish,D7D7,134.2,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7d7/mm23
+2024-10-01,Fish,D7D7,132.3,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7d7/mm23
+2024-11-01,Fish,D7D7,133.4,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7d7/mm23
+2024-12-01,Fish,D7D7,132.4,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7d7/mm23
+2025-01-01,Fish,D7D7,132.8,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7d7/mm23
+2025-02-01,Fish,D7D7,132.8,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7d7/mm23
+2025-03-01,Fish,D7D7,129.7,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7d7/mm23
+2025-04-01,Fish,D7D7,130.7,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7d7/mm23
+2025-05-01,Fish,D7D7,133.7,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7d7/mm23
+2025-06-01,Fish,D7D7,133.5,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7d7/mm23
+2025-07-01,Fish,D7D7,131.1,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7d7/mm23
+2025-08-01,Fish,D7D7,132.1,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7d7/mm23
+2025-09-01,Fish,D7D7,132.1,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7d7/mm23
+2025-10-01,Fish,D7D7,132.7,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7d7/mm23
+2025-11-01,Fish,D7D7,132.9,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7d7/mm23
+2025-12-01,Fish,D7D7,133.8,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7d7/mm23
+2026-01-01,Fish,D7D7,134.5,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7d7/mm23
+2026-02-01,Fish,D7D7,135.6,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7d7/mm23
+2026-03-01,Fish,D7D7,135.6,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7d7/mm23
+2026-04-01,Fish,D7D7,138.1,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7d7/mm23
+2026-05-01,Fish,D7D7,136.4,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7d7/mm23
+2026-06-01,Fish,D7D7,138.3,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7d7/mm23
+2026-07-01,Fish,D7D7,140.4,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7d7/mm23
+2026-08-01,Fish,D7D7,140.8,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7d7/mm23
+2014-01-01,Fruit,D7DA,101.4,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7da/mm23
+2014-02-01,Fruit,D7DA,99.7,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7da/mm23
+2014-03-01,Fruit,D7DA,101.5,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7da/mm23
+2014-04-01,Fruit,D7DA,101.3,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7da/mm23
+2014-05-01,Fruit,D7DA,99.4,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7da/mm23
+2014-06-01,Fruit,D7DA,97.6,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7da/mm23
+2014-07-01,Fruit,D7DA,97.2,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7da/mm23
+2014-08-01,Fruit,D7DA,97.5,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7da/mm23
+2014-09-01,Fruit,D7DA,97.3,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7da/mm23
+2014-10-01,Fruit,D7DA,101.6,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7da/mm23
+2014-11-01,Fruit,D7DA,103.4,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7da/mm23
+2014-12-01,Fruit,D7DA,104.3,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7da/mm23
+2015-01-01,Fruit,D7DA,101.3,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7da/mm23
+2015-02-01,Fruit,D7DA,100.4,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7da/mm23
+2015-03-01,Fruit,D7DA,100.5,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7da/mm23
+2015-04-01,Fruit,D7DA,100.4,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7da/mm23
+2015-05-01,Fruit,D7DA,100.4,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7da/mm23
+2015-06-01,Fruit,D7DA,99.0,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7da/mm23
+2015-07-01,Fruit,D7DA,97.6,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7da/mm23
+2015-08-01,Fruit,D7DA,97.2,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7da/mm23
+2015-09-01,Fruit,D7DA,97.5,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7da/mm23
+2015-10-01,Fruit,D7DA,100.1,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7da/mm23
+2015-11-01,Fruit,D7DA,102.2,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7da/mm23
+2015-12-01,Fruit,D7DA,103.4,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7da/mm23
+2016-01-01,Fruit,D7DA,100.0,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7da/mm23
+2016-02-01,Fruit,D7DA,100.0,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7da/mm23
+2016-03-01,Fruit,D7DA,102.4,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7da/mm23
+2016-04-01,Fruit,D7DA,100.4,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7da/mm23
+2016-05-01,Fruit,D7DA,100.3,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7da/mm23
+2016-06-01,Fruit,D7DA,99.3,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7da/mm23
+2016-07-01,Fruit,D7DA,97.8,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7da/mm23
+2016-08-01,Fruit,D7DA,98.8,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7da/mm23
+2016-09-01,Fruit,D7DA,101.1,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7da/mm23
+2016-10-01,Fruit,D7DA,102.3,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7da/mm23
+2016-11-01,Fruit,D7DA,105.6,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7da/mm23
+2016-12-01,Fruit,D7DA,105.6,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7da/mm23
+2017-01-01,Fruit,D7DA,101.2,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7da/mm23
+2017-02-01,Fruit,D7DA,102.5,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7da/mm23
+2017-03-01,Fruit,D7DA,103.7,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7da/mm23
+2017-04-01,Fruit,D7DA,103.5,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7da/mm23
+2017-05-01,Fruit,D7DA,102.9,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7da/mm23
+2017-06-01,Fruit,D7DA,102.5,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7da/mm23
+2017-07-01,Fruit,D7DA,101.3,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7da/mm23
+2017-08-01,Fruit,D7DA,101.0,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7da/mm23
+2017-09-01,Fruit,D7DA,102.6,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7da/mm23
+2017-10-01,Fruit,D7DA,105.8,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7da/mm23
+2017-11-01,Fruit,D7DA,108.9,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7da/mm23
+2017-12-01,Fruit,D7DA,109.3,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7da/mm23
+2018-01-01,Fruit,D7DA,108.5,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7da/mm23
+2018-02-01,Fruit,D7DA,108.8,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7da/mm23
+2018-03-01,Fruit,D7DA,107.3,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7da/mm23
+2018-04-01,Fruit,D7DA,105.8,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7da/mm23
+2018-05-01,Fruit,D7DA,105.6,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7da/mm23
+2018-06-01,Fruit,D7DA,104.4,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7da/mm23
+2018-07-01,Fruit,D7DA,103.7,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7da/mm23
+2018-08-01,Fruit,D7DA,103.5,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7da/mm23
+2018-09-01,Fruit,D7DA,105.5,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7da/mm23
+2018-10-01,Fruit,D7DA,109.0,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7da/mm23
+2018-11-01,Fruit,D7DA,109.7,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7da/mm23
+2018-12-01,Fruit,D7DA,109.1,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7da/mm23
+2019-01-01,Fruit,D7DA,110.2,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7da/mm23
+2019-02-01,Fruit,D7DA,108.6,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7da/mm23
+2019-03-01,Fruit,D7DA,106.2,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7da/mm23
+2019-04-01,Fruit,D7DA,105.7,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7da/mm23
+2019-05-01,Fruit,D7DA,104.3,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7da/mm23
+2019-06-01,Fruit,D7DA,106.7,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7da/mm23
+2019-07-01,Fruit,D7DA,105.7,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7da/mm23
+2019-08-01,Fruit,D7DA,104.9,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7da/mm23
+2019-09-01,Fruit,D7DA,107.4,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7da/mm23
+2019-10-01,Fruit,D7DA,107.3,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7da/mm23
+2019-11-01,Fruit,D7DA,109.9,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7da/mm23
+2019-12-01,Fruit,D7DA,110.7,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7da/mm23
+2020-01-01,Fruit,D7DA,110.7,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7da/mm23
+2020-02-01,Fruit,D7DA,112.0,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7da/mm23
+2020-03-01,Fruit,D7DA,108.2,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7da/mm23
+2020-04-01,Fruit,D7DA,108.0,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7da/mm23
+2020-05-01,Fruit,D7DA,108.3,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7da/mm23
+2020-06-01,Fruit,D7DA,109.1,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7da/mm23
+2020-07-01,Fruit,D7DA,106.8,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7da/mm23
+2020-08-01,Fruit,D7DA,106.8,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7da/mm23
+2020-09-01,Fruit,D7DA,107.1,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7da/mm23
+2020-10-01,Fruit,D7DA,108.8,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7da/mm23
+2020-11-01,Fruit,D7DA,109.9,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7da/mm23
+2020-12-01,Fruit,D7DA,110.2,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7da/mm23
+2021-01-01,Fruit,D7DA,109.2,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7da/mm23
+2021-02-01,Fruit,D7DA,110.3,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7da/mm23
+2021-03-01,Fruit,D7DA,109.8,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7da/mm23
+2021-04-01,Fruit,D7DA,109.1,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7da/mm23
+2021-05-01,Fruit,D7DA,109.8,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7da/mm23
+2021-06-01,Fruit,D7DA,109.0,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7da/mm23
+2021-07-01,Fruit,D7DA,108.1,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7da/mm23
+2021-08-01,Fruit,D7DA,108.0,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7da/mm23
+2021-09-01,Fruit,D7DA,109.7,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7da/mm23
+2021-10-01,Fruit,D7DA,111.3,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7da/mm23
+2021-11-01,Fruit,D7DA,114.8,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7da/mm23
+2021-12-01,Fruit,D7DA,115.9,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7da/mm23
+2022-01-01,Fruit,D7DA,116.7,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7da/mm23
+2022-02-01,Fruit,D7DA,117.2,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7da/mm23
+2022-03-01,Fruit,D7DA,115.7,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7da/mm23
+2022-04-01,Fruit,D7DA,115.9,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7da/mm23
+2022-05-01,Fruit,D7DA,115.9,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7da/mm23
+2022-06-01,Fruit,D7DA,116.5,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7da/mm23
+2022-07-01,Fruit,D7DA,117.3,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7da/mm23
+2022-08-01,Fruit,D7DA,117.4,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7da/mm23
+2022-09-01,Fruit,D7DA,119.3,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7da/mm23
+2022-10-01,Fruit,D7DA,122.7,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7da/mm23
+2022-11-01,Fruit,D7DA,123.9,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7da/mm23
+2022-12-01,Fruit,D7DA,123.4,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7da/mm23
+2023-01-01,Fruit,D7DA,123.7,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7da/mm23
+2023-02-01,Fruit,D7DA,126.3,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7da/mm23
+2023-03-01,Fruit,D7DA,128.0,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7da/mm23
+2023-04-01,Fruit,D7DA,128.4,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7da/mm23
+2023-05-01,Fruit,D7DA,128.9,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7da/mm23
+2023-06-01,Fruit,D7DA,128.5,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7da/mm23
+2023-07-01,Fruit,D7DA,127.1,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7da/mm23
+2023-08-01,Fruit,D7DA,127.1,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7da/mm23
+2023-09-01,Fruit,D7DA,126.6,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7da/mm23
+2023-10-01,Fruit,D7DA,129.6,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7da/mm23
+2023-11-01,Fruit,D7DA,132.2,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7da/mm23
+2023-12-01,Fruit,D7DA,132.1,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7da/mm23
+2024-01-01,Fruit,D7DA,132.5,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7da/mm23
+2024-02-01,Fruit,D7DA,132.1,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7da/mm23
+2024-03-01,Fruit,D7DA,132.6,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7da/mm23
+2024-04-01,Fruit,D7DA,132.2,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7da/mm23
+2024-05-01,Fruit,D7DA,132.3,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7da/mm23
+2024-06-01,Fruit,D7DA,130.6,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7da/mm23
+2024-07-01,Fruit,D7DA,130.6,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7da/mm23
+2024-08-01,Fruit,D7DA,129.8,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7da/mm23
+2024-09-01,Fruit,D7DA,131.5,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7da/mm23
+2024-10-01,Fruit,D7DA,134.4,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7da/mm23
+2024-11-01,Fruit,D7DA,135.4,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7da/mm23
+2024-12-01,Fruit,D7DA,137.0,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7da/mm23
+2025-01-01,Fruit,D7DA,137.2,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7da/mm23
+2025-02-01,Fruit,D7DA,137.7,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7da/mm23
+2025-03-01,Fruit,D7DA,137.5,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7da/mm23
+2025-04-01,Fruit,D7DA,136.5,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7da/mm23
+2025-05-01,Fruit,D7DA,136.6,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7da/mm23
+2025-06-01,Fruit,D7DA,135.5,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7da/mm23
+2025-07-01,Fruit,D7DA,135.1,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7da/mm23
+2025-08-01,Fruit,D7DA,134.8,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7da/mm23
+2025-09-01,Fruit,D7DA,136.9,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7da/mm23
+2025-10-01,Fruit,D7DA,137.2,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7da/mm23
+2025-11-01,Fruit,D7DA,138.6,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7da/mm23
+2025-12-01,Fruit,D7DA,139.5,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7da/mm23
+2026-01-01,Fruit,D7DA,140.4,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7da/mm23
+2026-02-01,Fruit,D7DA,141.2,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7da/mm23
+2026-03-01,Fruit,D7DA,141.8,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7da/mm23
+2026-04-01,Fruit,D7DA,140.8,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7da/mm23
+2026-05-01,Fruit,D7DA,140.1,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7da/mm23
+2026-06-01,Fruit,D7DA,139.2,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7da/mm23
+2026-07-01,Fruit,D7DA,137.9,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7da/mm23
+2026-08-01,Fruit,D7DA,137.8,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7da/mm23
+2014-01-01,Meat,D7D6,103.5,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7d6/mm23
+2014-02-01,Meat,D7D6,104.2,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7d6/mm23
+2014-03-01,Meat,D7D6,104.2,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7d6/mm23
+2014-04-01,Meat,D7D6,104.0,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7d6/mm23
+2014-05-01,Meat,D7D6,102.9,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7d6/mm23
+2014-06-01,Meat,D7D6,103.0,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7d6/mm23
+2014-07-01,Meat,D7D6,103.1,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7d6/mm23
+2014-08-01,Meat,D7D6,103.2,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7d6/mm23
+2014-09-01,Meat,D7D6,103.6,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7d6/mm23
+2014-10-01,Meat,D7D6,102.4,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7d6/mm23
+2014-11-01,Meat,D7D6,101.7,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7d6/mm23
+2014-12-01,Meat,D7D6,102.2,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7d6/mm23
+2015-01-01,Meat,D7D6,101.7,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7d6/mm23
+2015-02-01,Meat,D7D6,101.8,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7d6/mm23
+2015-03-01,Meat,D7D6,101.1,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7d6/mm23
+2015-04-01,Meat,D7D6,101.1,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7d6/mm23
+2015-05-01,Meat,D7D6,100.4,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7d6/mm23
+2015-06-01,Meat,D7D6,100.4,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7d6/mm23
+2015-07-01,Meat,D7D6,100.5,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7d6/mm23
+2015-08-01,Meat,D7D6,99.4,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7d6/mm23
+2015-09-01,Meat,D7D6,99.8,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7d6/mm23
+2015-10-01,Meat,D7D6,98.0,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7d6/mm23
+2015-11-01,Meat,D7D6,97.8,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7d6/mm23
+2015-12-01,Meat,D7D6,98.1,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7d6/mm23
+2016-01-01,Meat,D7D6,97.8,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7d6/mm23
+2016-02-01,Meat,D7D6,97.4,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7d6/mm23
+2016-03-01,Meat,D7D6,96.7,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7d6/mm23
+2016-04-01,Meat,D7D6,96.1,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7d6/mm23
+2016-05-01,Meat,D7D6,95.2,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7d6/mm23
+2016-06-01,Meat,D7D6,96.3,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7d6/mm23
+2016-07-01,Meat,D7D6,95.0,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7d6/mm23
+2016-08-01,Meat,D7D6,95.4,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7d6/mm23
+2016-09-01,Meat,D7D6,95.3,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7d6/mm23
+2016-10-01,Meat,D7D6,94.8,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7d6/mm23
+2016-11-01,Meat,D7D6,95.0,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7d6/mm23
+2016-12-01,Meat,D7D6,95.9,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7d6/mm23
+2017-01-01,Meat,D7D6,96.2,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7d6/mm23
+2017-02-01,Meat,D7D6,96.6,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7d6/mm23
+2017-03-01,Meat,D7D6,96.7,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7d6/mm23
+2017-04-01,Meat,D7D6,97.5,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7d6/mm23
+2017-05-01,Meat,D7D6,97.2,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7d6/mm23
+2017-06-01,Meat,D7D6,97.6,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7d6/mm23
+2017-07-01,Meat,D7D6,97.1,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7d6/mm23
+2017-08-01,Meat,D7D6,97.0,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7d6/mm23
+2017-09-01,Meat,D7D6,98.3,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7d6/mm23
+2017-10-01,Meat,D7D6,98.5,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7d6/mm23
+2017-11-01,Meat,D7D6,98.6,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7d6/mm23
+2017-12-01,Meat,D7D6,99.9,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7d6/mm23
+2018-01-01,Meat,D7D6,99.0,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7d6/mm23
+2018-02-01,Meat,D7D6,99.2,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7d6/mm23
+2018-03-01,Meat,D7D6,99.8,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7d6/mm23
+2018-04-01,Meat,D7D6,99.5,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7d6/mm23
+2018-05-01,Meat,D7D6,98.9,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7d6/mm23
+2018-06-01,Meat,D7D6,98.4,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7d6/mm23
+2018-07-01,Meat,D7D6,98.6,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7d6/mm23
+2018-08-01,Meat,D7D6,98.4,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7d6/mm23
+2018-09-01,Meat,D7D6,98.0,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7d6/mm23
+2018-10-01,Meat,D7D6,97.4,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7d6/mm23
+2018-11-01,Meat,D7D6,97.3,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7d6/mm23
+2018-12-01,Meat,D7D6,98.1,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7d6/mm23
+2019-01-01,Meat,D7D6,98.4,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7d6/mm23
+2019-02-01,Meat,D7D6,98.0,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7d6/mm23
+2019-03-01,Meat,D7D6,97.9,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7d6/mm23
+2019-04-01,Meat,D7D6,97.6,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7d6/mm23
+2019-05-01,Meat,D7D6,97.9,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7d6/mm23
+2019-06-01,Meat,D7D6,98.2,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7d6/mm23
+2019-07-01,Meat,D7D6,97.9,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7d6/mm23
+2019-08-01,Meat,D7D6,98.8,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7d6/mm23
+2019-09-01,Meat,D7D6,98.7,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7d6/mm23
+2019-10-01,Meat,D7D6,98.0,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7d6/mm23
+2019-11-01,Meat,D7D6,99.0,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7d6/mm23
+2019-12-01,Meat,D7D6,99.8,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7d6/mm23
+2020-01-01,Meat,D7D6,100.2,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7d6/mm23
+2020-02-01,Meat,D7D6,100.3,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7d6/mm23
+2020-03-01,Meat,D7D6,99.9,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7d6/mm23
+2020-04-01,Meat,D7D6,100.4,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7d6/mm23
+2020-05-01,Meat,D7D6,100.6,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7d6/mm23
+2020-06-01,Meat,D7D6,100.9,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7d6/mm23
+2020-07-01,Meat,D7D6,100.1,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7d6/mm23
+2020-08-01,Meat,D7D6,100.6,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7d6/mm23
+2020-09-01,Meat,D7D6,100.3,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7d6/mm23
+2020-10-01,Meat,D7D6,99.8,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7d6/mm23
+2020-11-01,Meat,D7D6,99.1,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7d6/mm23
+2020-12-01,Meat,D7D6,98.4,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7d6/mm23
+2021-01-01,Meat,D7D6,99.3,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7d6/mm23
+2021-02-01,Meat,D7D6,98.7,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7d6/mm23
+2021-03-01,Meat,D7D6,98.7,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7d6/mm23
+2021-04-01,Meat,D7D6,98.6,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7d6/mm23
+2021-05-01,Meat,D7D6,97.9,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7d6/mm23
+2021-06-01,Meat,D7D6,99.3,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7d6/mm23
+2021-07-01,Meat,D7D6,99.1,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7d6/mm23
+2021-08-01,Meat,D7D6,99.9,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7d6/mm23
+2021-09-01,Meat,D7D6,99.5,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7d6/mm23
+2021-10-01,Meat,D7D6,100.4,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7d6/mm23
+2021-11-01,Meat,D7D6,100.7,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7d6/mm23
+2021-12-01,Meat,D7D6,102.8,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7d6/mm23
+2022-01-01,Meat,D7D6,103.1,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7d6/mm23
+2022-02-01,Meat,D7D6,103.8,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7d6/mm23
+2022-03-01,Meat,D7D6,104.2,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7d6/mm23
+2022-04-01,Meat,D7D6,106.2,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7d6/mm23
+2022-05-01,Meat,D7D6,107.5,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7d6/mm23
+2022-06-01,Meat,D7D6,110.3,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7d6/mm23
+2022-07-01,Meat,D7D6,112.1,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7d6/mm23
+2022-08-01,Meat,D7D6,113.1,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7d6/mm23
+2022-09-01,Meat,D7D6,114.7,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7d6/mm23
+2022-10-01,Meat,D7D6,116.1,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7d6/mm23
+2022-11-01,Meat,D7D6,117.3,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7d6/mm23
+2022-12-01,Meat,D7D6,118.7,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7d6/mm23
+2023-01-01,Meat,D7D6,118.6,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7d6/mm23
+2023-02-01,Meat,D7D6,120.7,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7d6/mm23
+2023-03-01,Meat,D7D6,122.4,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7d6/mm23
+2023-04-01,Meat,D7D6,124.5,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7d6/mm23
+2023-05-01,Meat,D7D6,125.0,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7d6/mm23
+2023-06-01,Meat,D7D6,125.7,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7d6/mm23
+2023-07-01,Meat,D7D6,126.3,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7d6/mm23
+2023-08-01,Meat,D7D6,126.6,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7d6/mm23
+2023-09-01,Meat,D7D6,126.8,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7d6/mm23
+2023-10-01,Meat,D7D6,126.6,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7d6/mm23
+2023-11-01,Meat,D7D6,127.0,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7d6/mm23
+2023-12-01,Meat,D7D6,127.2,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7d6/mm23
+2024-01-01,Meat,D7D6,126.4,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7d6/mm23
+2024-02-01,Meat,D7D6,126.8,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7d6/mm23
+2024-03-01,Meat,D7D6,126.2,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7d6/mm23
+2024-04-01,Meat,D7D6,126.8,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7d6/mm23
+2024-05-01,Meat,D7D6,127.2,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7d6/mm23
+2024-06-01,Meat,D7D6,126.9,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7d6/mm23
+2024-07-01,Meat,D7D6,127.2,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7d6/mm23
+2024-08-01,Meat,D7D6,127.8,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7d6/mm23
+2024-09-01,Meat,D7D6,127.8,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7d6/mm23
+2024-10-01,Meat,D7D6,127.8,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7d6/mm23
+2024-11-01,Meat,D7D6,127.1,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7d6/mm23
+2024-12-01,Meat,D7D6,127.2,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7d6/mm23
+2025-01-01,Meat,D7D6,129.3,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7d6/mm23
+2025-02-01,Meat,D7D6,129.2,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7d6/mm23
+2025-03-01,Meat,D7D6,128.8,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7d6/mm23
+2025-04-01,Meat,D7D6,131.3,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7d6/mm23
+2025-05-01,Meat,D7D6,133.3,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7d6/mm23
+2025-06-01,Meat,D7D6,134.1,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7d6/mm23
+2025-07-01,Meat,D7D6,135.0,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7d6/mm23
+2025-08-01,Meat,D7D6,135.7,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7d6/mm23
+2025-09-01,Meat,D7D6,135.7,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7d6/mm23
+2025-10-01,Meat,D7D6,136.2,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7d6/mm23
+2025-11-01,Meat,D7D6,135.4,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7d6/mm23
+2025-12-01,Meat,D7D6,136.0,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7d6/mm23
+2026-01-01,Meat,D7D6,136.0,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7d6/mm23
+2026-02-01,Meat,D7D6,135.8,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7d6/mm23
+2026-03-01,Meat,D7D6,136.2,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7d6/mm23
+2026-04-01,Meat,D7D6,136.1,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7d6/mm23
+2026-05-01,Meat,D7D6,136.4,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7d6/mm23
+2026-06-01,Meat,D7D6,136.7,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7d6/mm23
+2026-07-01,Meat,D7D6,136.0,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7d6/mm23
+2026-08-01,Meat,D7D6,135.8,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7d6/mm23
+2014-01-01,"Milk, cheese & eggs",D7D8,106.0,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7d8/mm23
+2014-02-01,"Milk, cheese & eggs",D7D8,106.4,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7d8/mm23
+2014-03-01,"Milk, cheese & eggs",D7D8,105.4,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7d8/mm23
+2014-04-01,"Milk, cheese & eggs",D7D8,104.5,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7d8/mm23
+2014-05-01,"Milk, cheese & eggs",D7D8,104.3,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7d8/mm23
+2014-06-01,"Milk, cheese & eggs",D7D8,104.3,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7d8/mm23
+2014-07-01,"Milk, cheese & eggs",D7D8,103.9,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7d8/mm23
+2014-08-01,"Milk, cheese & eggs",D7D8,103.2,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7d8/mm23
+2014-09-01,"Milk, cheese & eggs",D7D8,104.3,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7d8/mm23
+2014-10-01,"Milk, cheese & eggs",D7D8,104.3,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7d8/mm23
+2014-11-01,"Milk, cheese & eggs",D7D8,104.7,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7d8/mm23
+2014-12-01,"Milk, cheese & eggs",D7D8,104.6,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7d8/mm23
+2015-01-01,"Milk, cheese & eggs",D7D8,102.4,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7d8/mm23
+2015-02-01,"Milk, cheese & eggs",D7D8,100.4,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7d8/mm23
+2015-03-01,"Milk, cheese & eggs",D7D8,101.6,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7d8/mm23
+2015-04-01,"Milk, cheese & eggs",D7D8,101.0,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7d8/mm23
+2015-05-01,"Milk, cheese & eggs",D7D8,101.0,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7d8/mm23
+2015-06-01,"Milk, cheese & eggs",D7D8,101.7,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7d8/mm23
+2015-07-01,"Milk, cheese & eggs",D7D8,98.9,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7d8/mm23
+2015-08-01,"Milk, cheese & eggs",D7D8,99.3,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7d8/mm23
+2015-09-01,"Milk, cheese & eggs",D7D8,98.6,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7d8/mm23
+2015-10-01,"Milk, cheese & eggs",D7D8,98.5,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7d8/mm23
+2015-11-01,"Milk, cheese & eggs",D7D8,97.7,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7d8/mm23
+2015-12-01,"Milk, cheese & eggs",D7D8,98.9,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7d8/mm23
+2016-01-01,"Milk, cheese & eggs",D7D8,97.9,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7d8/mm23
+2016-02-01,"Milk, cheese & eggs",D7D8,97.4,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7d8/mm23
+2016-03-01,"Milk, cheese & eggs",D7D8,97.3,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7d8/mm23
+2016-04-01,"Milk, cheese & eggs",D7D8,96.2,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7d8/mm23
+2016-05-01,"Milk, cheese & eggs",D7D8,97.0,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7d8/mm23
+2016-06-01,"Milk, cheese & eggs",D7D8,95.5,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7d8/mm23
+2016-07-01,"Milk, cheese & eggs",D7D8,96.9,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7d8/mm23
+2016-08-01,"Milk, cheese & eggs",D7D8,96.7,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7d8/mm23
+2016-09-01,"Milk, cheese & eggs",D7D8,95.8,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7d8/mm23
+2016-10-01,"Milk, cheese & eggs",D7D8,95.7,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7d8/mm23
+2016-11-01,"Milk, cheese & eggs",D7D8,96.0,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7d8/mm23
+2016-12-01,"Milk, cheese & eggs",D7D8,96.5,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7d8/mm23
+2017-01-01,"Milk, cheese & eggs",D7D8,96.0,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7d8/mm23
+2017-02-01,"Milk, cheese & eggs",D7D8,96.6,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7d8/mm23
+2017-03-01,"Milk, cheese & eggs",D7D8,98.2,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7d8/mm23
+2017-04-01,"Milk, cheese & eggs",D7D8,97.4,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7d8/mm23
+2017-05-01,"Milk, cheese & eggs",D7D8,98.2,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7d8/mm23
+2017-06-01,"Milk, cheese & eggs",D7D8,98.2,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7d8/mm23
+2017-07-01,"Milk, cheese & eggs",D7D8,98.8,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7d8/mm23
+2017-08-01,"Milk, cheese & eggs",D7D8,98.5,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7d8/mm23
+2017-09-01,"Milk, cheese & eggs",D7D8,98.4,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7d8/mm23
+2017-10-01,"Milk, cheese & eggs",D7D8,100.3,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7d8/mm23
+2017-11-01,"Milk, cheese & eggs",D7D8,100.7,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7d8/mm23
+2017-12-01,"Milk, cheese & eggs",D7D8,101.1,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7d8/mm23
+2018-01-01,"Milk, cheese & eggs",D7D8,99.8,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7d8/mm23
+2018-02-01,"Milk, cheese & eggs",D7D8,102.5,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7d8/mm23
+2018-03-01,"Milk, cheese & eggs",D7D8,102.7,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7d8/mm23
+2018-04-01,"Milk, cheese & eggs",D7D8,101.0,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7d8/mm23
+2018-05-01,"Milk, cheese & eggs",D7D8,100.8,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7d8/mm23
+2018-06-01,"Milk, cheese & eggs",D7D8,100.3,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7d8/mm23
+2018-07-01,"Milk, cheese & eggs",D7D8,101.5,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7d8/mm23
+2018-08-01,"Milk, cheese & eggs",D7D8,101.1,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7d8/mm23
+2018-09-01,"Milk, cheese & eggs",D7D8,100.8,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7d8/mm23
+2018-10-01,"Milk, cheese & eggs",D7D8,99.5,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7d8/mm23
+2018-11-01,"Milk, cheese & eggs",D7D8,99.7,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7d8/mm23
+2018-12-01,"Milk, cheese & eggs",D7D8,101.2,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7d8/mm23
+2019-01-01,"Milk, cheese & eggs",D7D8,100.0,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7d8/mm23
+2019-02-01,"Milk, cheese & eggs",D7D8,101.6,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7d8/mm23
+2019-03-01,"Milk, cheese & eggs",D7D8,100.7,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7d8/mm23
+2019-04-01,"Milk, cheese & eggs",D7D8,100.2,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7d8/mm23
+2019-05-01,"Milk, cheese & eggs",D7D8,101.2,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7d8/mm23
+2019-06-01,"Milk, cheese & eggs",D7D8,100.7,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7d8/mm23
+2019-07-01,"Milk, cheese & eggs",D7D8,100.5,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7d8/mm23
+2019-08-01,"Milk, cheese & eggs",D7D8,101.5,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7d8/mm23
+2019-09-01,"Milk, cheese & eggs",D7D8,101.5,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7d8/mm23
+2019-10-01,"Milk, cheese & eggs",D7D8,101.0,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7d8/mm23
+2019-11-01,"Milk, cheese & eggs",D7D8,101.4,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7d8/mm23
+2019-12-01,"Milk, cheese & eggs",D7D8,102.5,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7d8/mm23
+2020-01-01,"Milk, cheese & eggs",D7D8,100.8,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7d8/mm23
+2020-02-01,"Milk, cheese & eggs",D7D8,101.8,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7d8/mm23
+2020-03-01,"Milk, cheese & eggs",D7D8,102.0,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7d8/mm23
+2020-04-01,"Milk, cheese & eggs",D7D8,100.1,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7d8/mm23
+2020-05-01,"Milk, cheese & eggs",D7D8,100.5,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7d8/mm23
+2020-06-01,"Milk, cheese & eggs",D7D8,101.4,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7d8/mm23
+2020-07-01,"Milk, cheese & eggs",D7D8,100.6,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7d8/mm23
+2020-08-01,"Milk, cheese & eggs",D7D8,101.7,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7d8/mm23
+2020-09-01,"Milk, cheese & eggs",D7D8,99.1,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7d8/mm23
+2020-10-01,"Milk, cheese & eggs",D7D8,99.6,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7d8/mm23
+2020-11-01,"Milk, cheese & eggs",D7D8,100.3,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7d8/mm23
+2020-12-01,"Milk, cheese & eggs",D7D8,100.8,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7d8/mm23
+2021-01-01,"Milk, cheese & eggs",D7D8,99.2,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7d8/mm23
+2021-02-01,"Milk, cheese & eggs",D7D8,101.3,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7d8/mm23
+2021-03-01,"Milk, cheese & eggs",D7D8,99.8,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7d8/mm23
+2021-04-01,"Milk, cheese & eggs",D7D8,100.8,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7d8/mm23
+2021-05-01,"Milk, cheese & eggs",D7D8,101.6,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7d8/mm23
+2021-06-01,"Milk, cheese & eggs",D7D8,101.1,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7d8/mm23
+2021-07-01,"Milk, cheese & eggs",D7D8,100.3,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7d8/mm23
+2021-08-01,"Milk, cheese & eggs",D7D8,102.1,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7d8/mm23
+2021-09-01,"Milk, cheese & eggs",D7D8,101.3,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7d8/mm23
+2021-10-01,"Milk, cheese & eggs",D7D8,102.6,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7d8/mm23
+2021-11-01,"Milk, cheese & eggs",D7D8,103.8,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7d8/mm23
+2021-12-01,"Milk, cheese & eggs",D7D8,105.3,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7d8/mm23
+2022-01-01,"Milk, cheese & eggs",D7D8,104.8,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7d8/mm23
+2022-02-01,"Milk, cheese & eggs",D7D8,107.6,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7d8/mm23
+2022-03-01,"Milk, cheese & eggs",D7D8,108.4,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7d8/mm23
+2022-04-01,"Milk, cheese & eggs",D7D8,110.3,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7d8/mm23
+2022-05-01,"Milk, cheese & eggs",D7D8,112.5,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7d8/mm23
+2022-06-01,"Milk, cheese & eggs",D7D8,116.1,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7d8/mm23
+2022-07-01,"Milk, cheese & eggs",D7D8,119.8,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7d8/mm23
+2022-08-01,"Milk, cheese & eggs",D7D8,124.6,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7d8/mm23
+2022-09-01,"Milk, cheese & eggs",D7D8,125.9,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7d8/mm23
+2022-10-01,"Milk, cheese & eggs",D7D8,130.5,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7d8/mm23
+2022-11-01,"Milk, cheese & eggs",D7D8,131.6,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7d8/mm23
+2022-12-01,"Milk, cheese & eggs",D7D8,137.1,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7d8/mm23
+2023-01-01,"Milk, cheese & eggs",D7D8,137.4,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7d8/mm23
+2023-02-01,"Milk, cheese & eggs",D7D8,140.7,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7d8/mm23
+2023-03-01,"Milk, cheese & eggs",D7D8,140.6,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7d8/mm23
+2023-04-01,"Milk, cheese & eggs",D7D8,142.6,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7d8/mm23
+2023-05-01,"Milk, cheese & eggs",D7D8,143.3,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7d8/mm23
+2023-06-01,"Milk, cheese & eggs",D7D8,142.6,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7d8/mm23
+2023-07-01,"Milk, cheese & eggs",D7D8,142.1,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7d8/mm23
+2023-08-01,"Milk, cheese & eggs",D7D8,143.7,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7d8/mm23
+2023-09-01,"Milk, cheese & eggs",D7D8,141.4,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7d8/mm23
+2023-10-01,"Milk, cheese & eggs",D7D8,140.8,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7d8/mm23
+2023-11-01,"Milk, cheese & eggs",D7D8,140.9,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7d8/mm23
+2023-12-01,"Milk, cheese & eggs",D7D8,141.6,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7d8/mm23
+2024-01-01,"Milk, cheese & eggs",D7D8,141.1,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7d8/mm23
+2024-02-01,"Milk, cheese & eggs",D7D8,141.2,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7d8/mm23
+2024-03-01,"Milk, cheese & eggs",D7D8,140.3,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7d8/mm23
+2024-04-01,"Milk, cheese & eggs",D7D8,140.2,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7d8/mm23
+2024-05-01,"Milk, cheese & eggs",D7D8,141.3,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7d8/mm23
+2024-06-01,"Milk, cheese & eggs",D7D8,140.4,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7d8/mm23
+2024-07-01,"Milk, cheese & eggs",D7D8,141.8,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7d8/mm23
+2024-08-01,"Milk, cheese & eggs",D7D8,141.0,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7d8/mm23
+2024-09-01,"Milk, cheese & eggs",D7D8,141.6,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7d8/mm23
+2024-10-01,"Milk, cheese & eggs",D7D8,141.5,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7d8/mm23
+2024-11-01,"Milk, cheese & eggs",D7D8,143.5,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7d8/mm23
+2024-12-01,"Milk, cheese & eggs",D7D8,143.7,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7d8/mm23
+2025-01-01,"Milk, cheese & eggs",D7D8,144.2,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7d8/mm23
+2025-02-01,"Milk, cheese & eggs",D7D8,143.3,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7d8/mm23
+2025-03-01,"Milk, cheese & eggs",D7D8,144.4,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7d8/mm23
+2025-04-01,"Milk, cheese & eggs",D7D8,143.5,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7d8/mm23
+2025-05-01,"Milk, cheese & eggs",D7D8,145.8,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7d8/mm23
+2025-06-01,"Milk, cheese & eggs",D7D8,145.8,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7d8/mm23
+2025-07-01,"Milk, cheese & eggs",D7D8,146.6,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7d8/mm23
+2025-08-01,"Milk, cheese & eggs",D7D8,146.9,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7d8/mm23
+2025-09-01,"Milk, cheese & eggs",D7D8,146.7,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7d8/mm23
+2025-10-01,"Milk, cheese & eggs",D7D8,146.7,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7d8/mm23
+2025-11-01,"Milk, cheese & eggs",D7D8,147.1,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7d8/mm23
+2025-12-01,"Milk, cheese & eggs",D7D8,147.3,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7d8/mm23
+2026-01-01,"Milk, cheese & eggs",D7D8,146.1,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7d8/mm23
+2026-02-01,"Milk, cheese & eggs",D7D8,146.2,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7d8/mm23
+2026-03-01,"Milk, cheese & eggs",D7D8,146.3,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7d8/mm23
+2026-04-01,"Milk, cheese & eggs",D7D8,146.4,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7d8/mm23
+2026-05-01,"Milk, cheese & eggs",D7D8,146.4,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7d8/mm23
+2026-06-01,"Milk, cheese & eggs",D7D8,145.5,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7d8/mm23
+2026-07-01,"Milk, cheese & eggs",D7D8,146.3,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7d8/mm23
+2026-08-01,"Milk, cheese & eggs",D7D8,146.6,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7d8/mm23
+2014-01-01,Oils & fats,D7D9,105.2,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7d9/mm23
+2014-02-01,Oils & fats,D7D9,104.8,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7d9/mm23
+2014-03-01,Oils & fats,D7D9,107.5,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7d9/mm23
+2014-04-01,Oils & fats,D7D9,106.7,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7d9/mm23
+2014-05-01,Oils & fats,D7D9,106.1,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7d9/mm23
+2014-06-01,Oils & fats,D7D9,107.4,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7d9/mm23
+2014-07-01,Oils & fats,D7D9,106.5,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7d9/mm23
+2014-08-01,Oils & fats,D7D9,102.2,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7d9/mm23
+2014-09-01,Oils & fats,D7D9,100.8,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7d9/mm23
+2014-10-01,Oils & fats,D7D9,103.9,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7d9/mm23
+2014-11-01,Oils & fats,D7D9,103.3,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7d9/mm23
+2014-12-01,Oils & fats,D7D9,103.9,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7d9/mm23
+2015-01-01,Oils & fats,D7D9,101.7,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7d9/mm23
+2015-02-01,Oils & fats,D7D9,102.0,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7d9/mm23
+2015-03-01,Oils & fats,D7D9,99.2,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7d9/mm23
+2015-04-01,Oils & fats,D7D9,98.4,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7d9/mm23
+2015-05-01,Oils & fats,D7D9,102.7,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7d9/mm23
+2015-06-01,Oils & fats,D7D9,97.6,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7d9/mm23
+2015-07-01,Oils & fats,D7D9,98.1,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7d9/mm23
+2015-08-01,Oils & fats,D7D9,97.8,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7d9/mm23
+2015-09-01,Oils & fats,D7D9,104.7,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7d9/mm23
+2015-10-01,Oils & fats,D7D9,99.5,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7d9/mm23
+2015-11-01,Oils & fats,D7D9,100.9,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7d9/mm23
+2015-12-01,Oils & fats,D7D9,97.4,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7d9/mm23
+2016-01-01,Oils & fats,D7D9,101.3,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7d9/mm23
+2016-02-01,Oils & fats,D7D9,102.1,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7d9/mm23
+2016-03-01,Oils & fats,D7D9,92.0,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7d9/mm23
+2016-04-01,Oils & fats,D7D9,101.6,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7d9/mm23
+2016-05-01,Oils & fats,D7D9,98.8,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7d9/mm23
+2016-06-01,Oils & fats,D7D9,99.6,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7d9/mm23
+2016-07-01,Oils & fats,D7D9,98.2,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7d9/mm23
+2016-08-01,Oils & fats,D7D9,101.7,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7d9/mm23
+2016-09-01,Oils & fats,D7D9,99.5,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7d9/mm23
+2016-10-01,Oils & fats,D7D9,98.5,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7d9/mm23
+2016-11-01,Oils & fats,D7D9,97.1,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7d9/mm23
+2016-12-01,Oils & fats,D7D9,102.1,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7d9/mm23
+2017-01-01,Oils & fats,D7D9,102.7,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7d9/mm23
+2017-02-01,Oils & fats,D7D9,103.4,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7d9/mm23
+2017-03-01,Oils & fats,D7D9,106.2,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7d9/mm23
+2017-04-01,Oils & fats,D7D9,99.3,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7d9/mm23
+2017-05-01,Oils & fats,D7D9,102.5,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7d9/mm23
+2017-06-01,Oils & fats,D7D9,104.8,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7d9/mm23
+2017-07-01,Oils & fats,D7D9,103.1,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7d9/mm23
+2017-08-01,Oils & fats,D7D9,107.7,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7d9/mm23
+2017-09-01,Oils & fats,D7D9,114.3,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7d9/mm23
+2017-10-01,Oils & fats,D7D9,104.0,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7d9/mm23
+2017-11-01,Oils & fats,D7D9,104.2,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7d9/mm23
+2017-12-01,Oils & fats,D7D9,113.4,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7d9/mm23
+2018-01-01,Oils & fats,D7D9,109.9,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7d9/mm23
+2018-02-01,Oils & fats,D7D9,108.5,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7d9/mm23
+2018-03-01,Oils & fats,D7D9,115.7,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7d9/mm23
+2018-04-01,Oils & fats,D7D9,113.3,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7d9/mm23
+2018-05-01,Oils & fats,D7D9,108.8,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7d9/mm23
+2018-06-01,Oils & fats,D7D9,110.6,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7d9/mm23
+2018-07-01,Oils & fats,D7D9,115.3,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7d9/mm23
+2018-08-01,Oils & fats,D7D9,107.8,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7d9/mm23
+2018-09-01,Oils & fats,D7D9,115.4,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7d9/mm23
+2018-10-01,Oils & fats,D7D9,108.1,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7d9/mm23
+2018-11-01,Oils & fats,D7D9,110.0,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7d9/mm23
+2018-12-01,Oils & fats,D7D9,116.7,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7d9/mm23
+2019-01-01,Oils & fats,D7D9,119.7,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7d9/mm23
+2019-02-01,Oils & fats,D7D9,114.5,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7d9/mm23
+2019-03-01,Oils & fats,D7D9,112.9,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7d9/mm23
+2019-04-01,Oils & fats,D7D9,117.9,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7d9/mm23
+2019-05-01,Oils & fats,D7D9,115.7,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7d9/mm23
+2019-06-01,Oils & fats,D7D9,116.6,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7d9/mm23
+2019-07-01,Oils & fats,D7D9,120.0,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7d9/mm23
+2019-08-01,Oils & fats,D7D9,117.9,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7d9/mm23
+2019-09-01,Oils & fats,D7D9,113.9,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7d9/mm23
+2019-10-01,Oils & fats,D7D9,113.6,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7d9/mm23
+2019-11-01,Oils & fats,D7D9,115.1,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7d9/mm23
+2019-12-01,Oils & fats,D7D9,116.7,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7d9/mm23
+2020-01-01,Oils & fats,D7D9,106.3,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7d9/mm23
+2020-02-01,Oils & fats,D7D9,109.9,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7d9/mm23
+2020-03-01,Oils & fats,D7D9,114.5,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7d9/mm23
+2020-04-01,Oils & fats,D7D9,119.4,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7d9/mm23
+2020-05-01,Oils & fats,D7D9,119.5,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7d9/mm23
+2020-06-01,Oils & fats,D7D9,116.0,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7d9/mm23
+2020-07-01,Oils & fats,D7D9,121.1,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7d9/mm23
+2020-08-01,Oils & fats,D7D9,112.0,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7d9/mm23
+2020-09-01,Oils & fats,D7D9,110.4,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7d9/mm23
+2020-10-01,Oils & fats,D7D9,107.0,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7d9/mm23
+2020-11-01,Oils & fats,D7D9,110.7,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7d9/mm23
+2020-12-01,Oils & fats,D7D9,109.5,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7d9/mm23
+2021-01-01,Oils & fats,D7D9,109.3,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7d9/mm23
+2021-02-01,Oils & fats,D7D9,115.5,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7d9/mm23
+2021-03-01,Oils & fats,D7D9,111.9,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7d9/mm23
+2021-04-01,Oils & fats,D7D9,114.2,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7d9/mm23
+2021-05-01,Oils & fats,D7D9,114.6,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7d9/mm23
+2021-06-01,Oils & fats,D7D9,117.0,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7d9/mm23
+2021-07-01,Oils & fats,D7D9,118.1,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7d9/mm23
+2021-08-01,Oils & fats,D7D9,118.0,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7d9/mm23
+2021-09-01,Oils & fats,D7D9,118.8,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7d9/mm23
+2021-10-01,Oils & fats,D7D9,117.6,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7d9/mm23
+2021-11-01,Oils & fats,D7D9,121.0,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7d9/mm23
+2021-12-01,Oils & fats,D7D9,123.9,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7d9/mm23
+2022-01-01,Oils & fats,D7D9,126.7,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7d9/mm23
+2022-02-01,Oils & fats,D7D9,123.2,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7d9/mm23
+2022-03-01,Oils & fats,D7D9,132.1,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7d9/mm23
+2022-04-01,Oils & fats,D7D9,130.8,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7d9/mm23
+2022-05-01,Oils & fats,D7D9,135.6,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7d9/mm23
+2022-06-01,Oils & fats,D7D9,136.5,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7d9/mm23
+2022-07-01,Oils & fats,D7D9,145.8,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7d9/mm23
+2022-08-01,Oils & fats,D7D9,149.0,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7d9/mm23
+2022-09-01,Oils & fats,D7D9,152.2,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7d9/mm23
+2022-10-01,Oils & fats,D7D9,156.5,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7d9/mm23
+2022-11-01,Oils & fats,D7D9,156.2,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7d9/mm23
+2022-12-01,Oils & fats,D7D9,160.1,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7d9/mm23
+2023-01-01,Oils & fats,D7D9,160.5,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7d9/mm23
+2023-02-01,Oils & fats,D7D9,162.8,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7d9/mm23
+2023-03-01,Oils & fats,D7D9,165.9,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7d9/mm23
+2023-04-01,Oils & fats,D7D9,164.9,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7d9/mm23
+2023-05-01,Oils & fats,D7D9,166.4,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7d9/mm23
+2023-06-01,Oils & fats,D7D9,168.0,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7d9/mm23
+2023-07-01,Oils & fats,D7D9,168.5,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7d9/mm23
+2023-08-01,Oils & fats,D7D9,167.8,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7d9/mm23
+2023-09-01,Oils & fats,D7D9,168.8,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7d9/mm23
+2023-10-01,Oils & fats,D7D9,173.5,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7d9/mm23
+2023-11-01,Oils & fats,D7D9,173.7,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7d9/mm23
+2023-12-01,Oils & fats,D7D9,176.1,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7d9/mm23
+2024-01-01,Oils & fats,D7D9,173.3,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7d9/mm23
+2024-02-01,Oils & fats,D7D9,176.3,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7d9/mm23
+2024-03-01,Oils & fats,D7D9,177.0,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7d9/mm23
+2024-04-01,Oils & fats,D7D9,180.7,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7d9/mm23
+2024-05-01,Oils & fats,D7D9,183.5,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7d9/mm23
+2024-06-01,Oils & fats,D7D9,184.4,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7d9/mm23
+2024-07-01,Oils & fats,D7D9,184.0,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7d9/mm23
+2024-08-01,Oils & fats,D7D9,187.1,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7d9/mm23
+2024-09-01,Oils & fats,D7D9,187.5,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7d9/mm23
+2024-10-01,Oils & fats,D7D9,187.0,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7d9/mm23
+2024-11-01,Oils & fats,D7D9,190.3,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7d9/mm23
+2024-12-01,Oils & fats,D7D9,193.0,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7d9/mm23
+2025-01-01,Oils & fats,D7D9,191.0,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7d9/mm23
+2025-02-01,Oils & fats,D7D9,191.3,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7d9/mm23
+2025-03-01,Oils & fats,D7D9,190.1,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7d9/mm23
+2025-04-01,Oils & fats,D7D9,193.2,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7d9/mm23
+2025-05-01,Oils & fats,D7D9,190.4,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7d9/mm23
+2025-06-01,Oils & fats,D7D9,193.8,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7d9/mm23
+2025-07-01,Oils & fats,D7D9,193.3,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7d9/mm23
+2025-08-01,Oils & fats,D7D9,190.8,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7d9/mm23
+2025-09-01,Oils & fats,D7D9,189.2,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7d9/mm23
+2025-10-01,Oils & fats,D7D9,190.5,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7d9/mm23
+2025-11-01,Oils & fats,D7D9,191.7,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7d9/mm23
+2025-12-01,Oils & fats,D7D9,190.0,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7d9/mm23
+2026-01-01,Oils & fats,D7D9,189.2,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7d9/mm23
+2026-02-01,Oils & fats,D7D9,187.8,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7d9/mm23
+2026-03-01,Oils & fats,D7D9,188.5,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7d9/mm23
+2026-04-01,Oils & fats,D7D9,184.2,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7d9/mm23
+2026-05-01,Oils & fats,D7D9,189.0,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7d9/mm23
+2026-06-01,Oils & fats,D7D9,186.3,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7d9/mm23
+2026-07-01,Oils & fats,D7D9,185.7,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7d9/mm23
+2026-08-01,Oils & fats,D7D9,185.5,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7d9/mm23
+2014-01-01,Vegetables,D7DB,110.0,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7db/mm23
+2014-02-01,Vegetables,D7DB,109.8,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7db/mm23
+2014-03-01,Vegetables,D7DB,107.6,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7db/mm23
+2014-04-01,Vegetables,D7DB,105.2,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7db/mm23
+2014-05-01,Vegetables,D7DB,102.5,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7db/mm23
+2014-06-01,Vegetables,D7DB,103.2,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7db/mm23
+2014-07-01,Vegetables,D7DB,103.1,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7db/mm23
+2014-08-01,Vegetables,D7DB,102.3,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7db/mm23
+2014-09-01,Vegetables,D7DB,102.4,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7db/mm23
+2014-10-01,Vegetables,D7DB,101.0,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7db/mm23
+2014-11-01,Vegetables,D7DB,100.7,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7db/mm23
+2014-12-01,Vegetables,D7DB,101.6,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7db/mm23
+2015-01-01,Vegetables,D7DB,101.3,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7db/mm23
+2015-02-01,Vegetables,D7DB,101.4,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7db/mm23
+2015-03-01,Vegetables,D7DB,101.1,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7db/mm23
+2015-04-01,Vegetables,D7DB,100.5,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7db/mm23
+2015-05-01,Vegetables,D7DB,100.5,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7db/mm23
+2015-06-01,Vegetables,D7DB,101.4,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7db/mm23
+2015-07-01,Vegetables,D7DB,99.7,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7db/mm23
+2015-08-01,Vegetables,D7DB,99.4,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7db/mm23
+2015-09-01,Vegetables,D7DB,99.9,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7db/mm23
+2015-10-01,Vegetables,D7DB,98.9,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7db/mm23
+2015-11-01,Vegetables,D7DB,99.1,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7db/mm23
+2015-12-01,Vegetables,D7DB,96.8,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7db/mm23
+2016-01-01,Vegetables,D7DB,97.3,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7db/mm23
+2016-02-01,Vegetables,D7DB,99.4,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7db/mm23
+2016-03-01,Vegetables,D7DB,97.0,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7db/mm23
+2016-04-01,Vegetables,D7DB,96.7,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7db/mm23
+2016-05-01,Vegetables,D7DB,95.5,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7db/mm23
+2016-06-01,Vegetables,D7DB,94.7,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7db/mm23
+2016-07-01,Vegetables,D7DB,95.9,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7db/mm23
+2016-08-01,Vegetables,D7DB,94.8,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7db/mm23
+2016-09-01,Vegetables,D7DB,95.9,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7db/mm23
+2016-10-01,Vegetables,D7DB,94.1,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7db/mm23
+2016-11-01,Vegetables,D7DB,94.4,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7db/mm23
+2016-12-01,Vegetables,D7DB,95.2,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7db/mm23
+2017-01-01,Vegetables,D7DB,96.3,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7db/mm23
+2017-02-01,Vegetables,D7DB,98.5,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7db/mm23
+2017-03-01,Vegetables,D7DB,98.7,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7db/mm23
+2017-04-01,Vegetables,D7DB,98.8,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7db/mm23
+2017-05-01,Vegetables,D7DB,97.7,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7db/mm23
+2017-06-01,Vegetables,D7DB,96.8,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7db/mm23
+2017-07-01,Vegetables,D7DB,97.3,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7db/mm23
+2017-08-01,Vegetables,D7DB,96.9,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7db/mm23
+2017-09-01,Vegetables,D7DB,96.9,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7db/mm23
+2017-10-01,Vegetables,D7DB,99.4,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7db/mm23
+2017-11-01,Vegetables,D7DB,99.2,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7db/mm23
+2017-12-01,Vegetables,D7DB,97.9,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7db/mm23
+2018-01-01,Vegetables,D7DB,99.4,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7db/mm23
+2018-02-01,Vegetables,D7DB,99.1,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7db/mm23
+2018-03-01,Vegetables,D7DB,99.6,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7db/mm23
+2018-04-01,Vegetables,D7DB,98.8,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7db/mm23
+2018-05-01,Vegetables,D7DB,99.5,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7db/mm23
+2018-06-01,Vegetables,D7DB,98.6,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7db/mm23
+2018-07-01,Vegetables,D7DB,98.5,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7db/mm23
+2018-08-01,Vegetables,D7DB,99.9,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7db/mm23
+2018-09-01,Vegetables,D7DB,99.6,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7db/mm23
+2018-10-01,Vegetables,D7DB,100.8,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7db/mm23
+2018-11-01,Vegetables,D7DB,101.8,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7db/mm23
+2018-12-01,Vegetables,D7DB,101.9,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7db/mm23
+2019-01-01,Vegetables,D7DB,102.3,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7db/mm23
+2019-02-01,Vegetables,D7DB,103.9,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7db/mm23
+2019-03-01,Vegetables,D7DB,104.9,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7db/mm23
+2019-04-01,Vegetables,D7DB,103.8,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7db/mm23
+2019-05-01,Vegetables,D7DB,103.3,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7db/mm23
+2019-06-01,Vegetables,D7DB,103.8,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7db/mm23
+2019-07-01,Vegetables,D7DB,104.3,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7db/mm23
+2019-08-01,Vegetables,D7DB,104.3,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7db/mm23
+2019-09-01,Vegetables,D7DB,103.4,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7db/mm23
+2019-10-01,Vegetables,D7DB,100.7,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7db/mm23
+2019-11-01,Vegetables,D7DB,101.7,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7db/mm23
+2019-12-01,Vegetables,D7DB,103.3,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7db/mm23
+2020-01-01,Vegetables,D7DB,103.3,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7db/mm23
+2020-02-01,Vegetables,D7DB,103.4,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7db/mm23
+2020-03-01,Vegetables,D7DB,101.4,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7db/mm23
+2020-04-01,Vegetables,D7DB,103.1,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7db/mm23
+2020-05-01,Vegetables,D7DB,104.6,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7db/mm23
+2020-06-01,Vegetables,D7DB,102.4,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7db/mm23
+2020-07-01,Vegetables,D7DB,101.9,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7db/mm23
+2020-08-01,Vegetables,D7DB,102.7,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7db/mm23
+2020-09-01,Vegetables,D7DB,100.9,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7db/mm23
+2020-10-01,Vegetables,D7DB,100.8,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7db/mm23
+2020-11-01,Vegetables,D7DB,100.0,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7db/mm23
+2020-12-01,Vegetables,D7DB,99.0,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7db/mm23
+2021-01-01,Vegetables,D7DB,100.8,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7db/mm23
+2021-02-01,Vegetables,D7DB,102.3,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7db/mm23
+2021-03-01,Vegetables,D7DB,100.9,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7db/mm23
+2021-04-01,Vegetables,D7DB,102.3,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7db/mm23
+2021-05-01,Vegetables,D7DB,102.6,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7db/mm23
+2021-06-01,Vegetables,D7DB,101.3,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7db/mm23
+2021-07-01,Vegetables,D7DB,101.1,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7db/mm23
+2021-08-01,Vegetables,D7DB,101.7,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7db/mm23
+2021-09-01,Vegetables,D7DB,101.6,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7db/mm23
+2021-10-01,Vegetables,D7DB,102.8,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7db/mm23
+2021-11-01,Vegetables,D7DB,102.7,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7db/mm23
+2021-12-01,Vegetables,D7DB,104.9,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7db/mm23
+2022-01-01,Vegetables,D7DB,105.4,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7db/mm23
+2022-02-01,Vegetables,D7DB,106.6,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7db/mm23
+2022-03-01,Vegetables,D7DB,105.7,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7db/mm23
+2022-04-01,Vegetables,D7DB,107.1,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7db/mm23
+2022-05-01,Vegetables,D7DB,109.4,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7db/mm23
+2022-06-01,Vegetables,D7DB,110.4,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7db/mm23
+2022-07-01,Vegetables,D7DB,112.8,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7db/mm23
+2022-08-01,Vegetables,D7DB,114.9,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7db/mm23
+2022-09-01,Vegetables,D7DB,115.5,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7db/mm23
+2022-10-01,Vegetables,D7DB,118.3,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7db/mm23
+2022-11-01,Vegetables,D7DB,119.2,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7db/mm23
+2022-12-01,Vegetables,D7DB,120.5,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7db/mm23
+2023-01-01,Vegetables,D7DB,121.7,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7db/mm23
+2023-02-01,Vegetables,D7DB,125.8,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7db/mm23
+2023-03-01,Vegetables,D7DB,126.1,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7db/mm23
+2023-04-01,Vegetables,D7DB,128.4,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7db/mm23
+2023-05-01,Vegetables,D7DB,131.0,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7db/mm23
+2023-06-01,Vegetables,D7DB,131.5,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7db/mm23
+2023-07-01,Vegetables,D7DB,131.6,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7db/mm23
+2023-08-01,Vegetables,D7DB,131.0,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7db/mm23
+2023-09-01,Vegetables,D7DB,132.1,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7db/mm23
+2023-10-01,Vegetables,D7DB,131.1,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7db/mm23
+2023-11-01,Vegetables,D7DB,131.9,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7db/mm23
+2023-12-01,Vegetables,D7DB,132.7,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7db/mm23
+2024-01-01,Vegetables,D7DB,132.5,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7db/mm23
+2024-02-01,Vegetables,D7DB,133.7,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7db/mm23
+2024-03-01,Vegetables,D7DB,134.5,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7db/mm23
+2024-04-01,Vegetables,D7DB,134.8,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7db/mm23
+2024-05-01,Vegetables,D7DB,134.3,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7db/mm23
+2024-06-01,Vegetables,D7DB,135.1,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7db/mm23
+2024-07-01,Vegetables,D7DB,134.4,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7db/mm23
+2024-08-01,Vegetables,D7DB,133.9,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7db/mm23
+2024-09-01,Vegetables,D7DB,135.1,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7db/mm23
+2024-10-01,Vegetables,D7DB,135.4,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7db/mm23
+2024-11-01,Vegetables,D7DB,135.5,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7db/mm23
+2024-12-01,Vegetables,D7DB,136.2,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7db/mm23
+2025-01-01,Vegetables,D7DB,136.2,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7db/mm23
+2025-02-01,Vegetables,D7DB,136.3,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7db/mm23
+2025-03-01,Vegetables,D7DB,137.1,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7db/mm23
+2025-04-01,Vegetables,D7DB,136.2,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7db/mm23
+2025-05-01,Vegetables,D7DB,137.2,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7db/mm23
+2025-06-01,Vegetables,D7DB,138.0,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7db/mm23
+2025-07-01,Vegetables,D7DB,137.9,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7db/mm23
+2025-08-01,Vegetables,D7DB,138.5,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7db/mm23
+2025-09-01,Vegetables,D7DB,137.5,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7db/mm23
+2025-10-01,Vegetables,D7DB,138.5,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7db/mm23
+2025-11-01,Vegetables,D7DB,138.2,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7db/mm23
+2025-12-01,Vegetables,D7DB,139.5,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7db/mm23
+2026-01-01,Vegetables,D7DB,139.3,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7db/mm23
+2026-02-01,Vegetables,D7DB,140.3,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7db/mm23
+2026-03-01,Vegetables,D7DB,140.6,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7db/mm23
+2026-04-01,Vegetables,D7DB,140.7,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7db/mm23
+2026-05-01,Vegetables,D7DB,140.0,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7db/mm23
+2026-06-01,Vegetables,D7DB,140.2,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7db/mm23
+2026-07-01,Vegetables,D7DB,139.2,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7db/mm23
+2026-08-01,Vegetables,D7DB,141.5,https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7db/mm23
