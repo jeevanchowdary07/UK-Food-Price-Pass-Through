@@ -1,6 +1,6 @@
 # UK Food Price Pass-Through
 
-[![Reproducibility checks](https://github.com/jeevanchowdary04/UK-Food-Price-Pass-Through/actions/workflows/ci.yml/badge.svg)](https://github.com/jeevanchowdary04/UK-Food-Price-Pass-Through/actions/workflows/ci.yml)
+[![Reproducibility checks](https://github.com/jeevanchowdary07/UK-Food-Price-Pass-Through/actions/workflows/ci.yml/badge.svg)](https://github.com/jeevanchowdary07/UK-Food-Price-Pass-Through/actions/workflows/ci.yml)
 
 **Research title:** *The Role of Import-Supplier Concentration in UK Food Price Pass-Through: A Category-Level Analysis, 2014–2026*
 
