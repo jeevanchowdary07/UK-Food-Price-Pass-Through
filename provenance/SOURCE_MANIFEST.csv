@@ -1,0 +1,10 @@
+source,organisation,role,url
+ONS Consumer Price Inflation time series MM23,ONS,Core CPI outcome,https://www.ons.gov.uk/economy/inflationandpriceindices/datasets/consumerpriceindices/current
+Overseas Trade Statistics API,HMRC UK Trade Info,Core import value/net mass/country data,https://api.uktradeinfo.com/OTS
+HMRC API documentation,HMRC UK Trade Info,API schema/method,https://www.uktradeinfo.com/api-documentation/
+HMRC latest bulk datasets,HMRC UK Trade Info,Latest bulk release / revisions,https://www.uktradeinfo.com/trade-data/latest-bulk-data-sets/
+HMRC archive,HMRC UK Trade Info,Historical bulk files,https://www.uktradeinfo.com/trade-data/latest-bulk-data-sets/bulk-data-sets-archive/
+HMRC July 2026 imports ZIP,HMRC UK Trade Info,Latest bulk imports,https://www.uktradeinfo.com/media/gnwbtkye/bdsimp2607.zip
+HMRC July 2026 control ZIP,HMRC UK Trade Info,Commodity control file,https://www.uktradeinfo.com/media/lt4nqqcd/smka122607.zip
+Agricultural Price Index,Defra,Robustness controls,https://www.gov.uk/government/statistics/agricultural-price-indices
+Exchange rates,Bank of England,Optional FX robustness control,https://www.bankofengland.co.uk/statistics/exchange-rates
