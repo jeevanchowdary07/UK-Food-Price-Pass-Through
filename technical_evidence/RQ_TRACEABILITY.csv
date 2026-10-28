@@ -1,0 +1,5 @@
+research_question,formula_or_test,script,primary_output,headline_result
+RQ1,0-3 distributed-lag cumulative effect,scripts/03_reproduce_final_analysis.py,results/tables/cumulative_effects_rq1_rq3.csv,"0.125339; p=0.000105"
+RQ2,cost x lagged-HHI moderation,scripts/03_reproduce_final_analysis.py,results/tables/cumulative_effects_rq1_rq3.csv,"moderation=-0.102688; p=0.818925"
+RQ3,disruption and cost x HHI x disruption,scripts/03_reproduce_final_analysis.py,results/tables/cumulative_effects_rq1_rq3.csv,"disruption difference=0.123824; p=0.007168; HHI-specific p=0.439816"
+Robustness,alternative lag/outlier/period/FE/concentration specifications,scripts/03_reproduce_final_analysis.py,results/tables/robustness_cumulative_effects.csv,"RQ1 positive across all principal sensitivity checks"
